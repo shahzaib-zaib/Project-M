@@ -43,3 +43,36 @@
         </div>
     </div>
 </div>
+<div class="who-we-are">
+    <div class="container">
+        <div class="row">
+            <div class="decoration-square">
+                <img src="images/square-decoration.png" alt="">
+            </div>
+            <div class="col-md-8 offset-md-2">
+                <div class="section-heading">
+                    <span>Who we are</span>
+                    <h2>get to know us better</h2>
+                </div>
+            </div>
+            <div class="col-md-6 align-self-center">
+                <div class="left-image">
+                    <img src="http://placehold.it/590x460" alt="">
+                </div>
+            </div>
+            <div class="col-md-6 align-self-center">
+                <div class="right-content">
+                    <h2>our story</h2>
+                    <p>Lorem ipsum dolor amet lumbersexual schlitz waistcoat, street art kickstarter lo-fi stef plaid tote bag intelligentsia tbh keytar tattooed. Polaroid portland kale chips greenafa juice kinfolk poke schlitz hashtag swag paleo.</p>
+                    <ul>
+                        <li><i class="fa fa-angle-right"></i>Adipisicing elit. Quo, optio?</li>
+                        <li><i class="fa fa-angle-right"></i>Adipisicing elit. Expedita, obcaecati.</li>
+                        <li><i class="fa fa-angle-right"></i>Adipisicing elit. Enim, voluptatibus.</li>
+                        <li><i class="fa fa-angle-right"></i>Adipisicing elit. Quibusdam, eum!</li>
+                    </ul>
+                    <a href="about-us.html" class="button main-button">Learn More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
