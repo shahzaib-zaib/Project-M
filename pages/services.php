@@ -82,3 +82,37 @@
         </div>
     </div>
 </div>
+<div class="fun-facts">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="fact-item">
+                    <div class="counter-box">
+                        <span class="count-number">14</span> <em>Winning Awards</em>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="fact-item">
+                    <div class="counter-box">
+                        <span class="count-number">210</span> <em>Projects Done</em>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="fact-item">
+                    <div class="counter-box">
+                        <span class="count-number">950</span> <em>Working Hours</em>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="fact-item">
+                    <div class="counter-box">
+                        <span class="count-number">84</span> <em>Happy Clients</em>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
