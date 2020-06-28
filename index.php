@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title>Dr. Maheen Rizvi</title>
-    
+
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
     <title>Rosaleda - Creative HTML5 Template</title>
@@ -30,5 +30,33 @@
 </head>
 <body>
     
+
+
+
+
+
+
+
+    <script src="js/jquery.js"></script>
+
+    <script src="js/bootstrap.min.js"></script>
+
+    <script src="js/fullpage.min.js"></script>
+
+    <script src="js/scrolloverflow.js"></script>
+
+    <script src="js/owl.carousel.min.js"></script>
+
+    <script src="js/accordions.js"></script>
+
+    <script src="js/jquery.inview.min.js"></script>
+
+    <script src="js/form.js"></script>
+
+    <script src="js/isotope.js"></script>
+
+    <script src="js/waypoints.min.js"></script>
+
+    <script src="js/custom.js"></script>
 </body>
 </html>
