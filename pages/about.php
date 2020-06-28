@@ -76,3 +76,66 @@
         </div>
     </div>
 </div>
+<div class="section animated-row slide-07" data-section="slide07" style="margin: 100px 0 100px 0;">
+    <div class="section-inner">
+        <div class="testimonials-section">
+            <div class="row justify-content-center">
+                <div class="col-lg-10 wide-col-laptop">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div>
+                                <div class="section-heading text-center">
+                                    <span>TESTIMONIALS</span>
+                                    <h2>What <em>clients</em> say about us</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="testimonials-list owl-carousel">
+                                <div class="item">
+                                    <div class="testimonial-item">
+                                        <div class="background-image">
+                                            <img src="images/testimonial-icon.png" alt="">
+                                        </div>
+                                        <div class="author-member">
+                                            <img src="images/testimonial-member-01.jpg" alt="">
+                                        </div>
+                                        <p>Bespoke ramps literally, viral hashtag hella deep v humblebrag beard hell of kale chips cold-pressed chillwave chia food truck. Edison bulb post-ironic hoodie, portland gastropub raclette waistcoat. Narwhal pug humblebrag, XOXO edison bulb four dollar toast sustainable.</p>
+                                        <h4>LENNOX ATKINSON</h4>
+                                        <span>co-founder</span>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="testimonial-item">
+                                        <div class="background-image">
+                                            <img src="images/testimonial-icon.png" alt="">
+                                        </div>
+                                        <div class="author-member">
+                                            <img src="images/testimonial-member-01.jpg" alt="">
+                                        </div>
+                                        <p>Bespoke ramps literally, viral hashtag hella deep v humblebrag beard hell of kale chips cold-pressed chillwave chia food truck. Edison bulb post-ironic hoodie, portland gastropub raclette waistcoat. Narwhal pug humblebrag, XOXO edison bulb four dollar toast sustainable.</p>
+                                        <h4>Antonio Machetta</h4>
+                                        <span>SALES DIRECTOR MANAGER</span>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="testimonial-item">
+                                        <div class="background-image">
+                                            <img src="images/testimonial-icon.png" alt="">
+                                        </div>
+                                        <div class="author-member">
+                                            <img src="images/testimonial-member-01.jpg" alt="">
+                                        </div>
+                                        <p>Bespoke ramps literally, viral hashtag hella deep v humblebrag beard hell of kale chips cold-pressed chillwave chia food truck. Edison bulb post-ironic hoodie, portland gastropub raclette waistcoat. Narwhal pug humblebrag, XOXO edison bulb four dollar toast sustainable.</p>
+                                        <h4>Robert Henderson</h4>
+                                        <span>creative director</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
