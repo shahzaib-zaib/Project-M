@@ -116,3 +116,83 @@
         </div>
     </div>
 </div>
+<div class="pricing-tables">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 offset-md-2">
+                <div class="section-heading">
+                    <span>FIND OUR PRICINGS</span>
+                    <h2>Pick one of our plans</h2>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="pricing-item">
+                    <h4>Start Up</h4>
+                    <div class="price">
+                        <span>Starting At</span>
+                        <h6>$19.99 / <em>month</em></h6>
+                    </div>
+                    <ul>
+                        <li>Web Design</li>
+                        <li>HTML5 &amp; CSS3</li>
+                        <li class="dissabled">WordPress</li>
+                        <li class="dissabled">Javascript</li>
+                        <li class="dissabled">Animation</li>
+                    </ul>
+                    <a href="" class="button main-button">Pick Plan</a>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="pricing-item">
+                    <h4>Professional</h4>
+                    <div class="price">
+                        <span>Starting At</span>
+                        <h6>$29.99 / <em>month</em></h6>
+                    </div>
+                    <ul>
+                        <li>Web Design</li>
+                        <li>HTML5 &amp; CSS3</li>
+                        <li>WordPress</li>
+                        <li class="dissabled">Javascript</li>
+                        <li class="dissabled">Animation</li>
+                    </ul>
+                    <a href="" class="button main-button">Pick Plan</a>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="pricing-item">
+                    <h4>Advanced</h4>
+                    <div class="price">
+                        <span>Starting At</span>
+                        <h6>$39.99 / <em>month</em></h6>
+                    </div>
+                    <ul>
+                        <li>Web Design</li>
+                        <li>HTML5 &amp; CSS3</li>
+                        <li>WordPress</li>
+                        <li>Javascript</li>
+                        <li class="dissabled">Animation</li>
+                    </ul>
+                    <a href="" class="button main-button">Pick Plan</a>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="pricing-item">
+                    <h4>Premium</h4>
+                    <div class="price">
+                        <span>Starting At</span>
+                        <h6>$49.99 / <em>month</em></h6>
+                    </div>
+                    <ul>
+                        <li>Web Design</li>
+                        <li>HTML5 &amp; CSS3</li>
+                        <li>WordPress</li>
+                        <li>Javascript</li>
+                        <li>Animation</li>
+                    </ul>
+                    <a href="" class="button main-button">Pick Plan</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
