@@ -52,8 +52,9 @@
                                     <li><a href="single-member.php">Medico Legal</a></li>
                                 </ul>
                             </li>
-                            <li><a href="#">Consultation</a></li>
-                            <li><a href="contact.php">Contact</a></li> 
+                            <li><a href="consultation.php">Consultation</a></li>
+                            <li><a href="contact.php">Contact</a></li>
+                            <li><a href="faqs.php">FAQs</a></li> 
                         </ul>        
                         <a class='menu-trigger'>
                             <span>Menu</span>
