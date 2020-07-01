@@ -22,22 +22,22 @@
             </div>
             <div class="col-md-4">
                 <div class="feature-item">
-                    <h4>OUR MISSION</h4>
-                    <p>Hello lo-fi bespoke banh mi snackwave green juice franzen offal tote bag check chillwave distillery mumblecore.</p>
+                    <h4>MISSION</h4>
+                    <p>My mission is to help people and families who are experiencing mental and emotional difficulties to get better.</p>
                     <span>1</span>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="feature-item">
-                    <h4>OUR ADVANTAGES</h4>
-                    <p>Hello lo-fi bespoke banh mi snackwave green juice franzen offal tote bag check chillwave distillery mumblecore.</p>
+                    <h4>ADVANTAGES</h4>
+                    <p></p>
                     <span>2</span>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="feature-item">
-                    <h4>OUR GUARANTEES</h4>
-                    <p>Hello lo-fi bespoke banh mi snackwave green juice franzen offal tote bag check chillwave distillery mumblecore.</p>
+                    <h4>GUARANTEES</h4>
+                    <p></p>
                     <span>3</span>
                 </div>
             </div>
@@ -52,8 +52,8 @@
             </div>
             <div class="col-md-8 offset-md-2">
                 <div class="section-heading">
-                    <span>Who we are</span>
-                    <h2>get to know us better</h2>
+                    <span>Who am I</span>
+                    <h2>get to know me better</h2>
                 </div>
             </div>
             <div class="col-md-6 align-self-center">
@@ -63,8 +63,10 @@
             </div>
             <div class="col-md-6 align-self-center">
                 <div class="right-content">
-                    <h2>our story</h2>
-                    <p>Lorem ipsum dolor amet lumbersexual schlitz waistcoat, street art kickstarter lo-fi stef plaid tote bag intelligentsia tbh keytar tattooed. Polaroid portland kale chips greenafa juice kinfolk poke schlitz hashtag swag paleo.</p>
+                    <h2>My story</h2>
+                    <p>When you or someone you care about is experiencing any kind of mental health problem it can be surprisingly hard to know where to turn and it can take too long to get an appointment. That’s why I started this.</p>
+                    <p>There are two key ingredients to my service. One is the team of mental health advisers in my office who have been carefully chosen so that you can trust me to give you honest and sensible advice about who to see.</p>
+                    <p>Between us, I promise to have your best interests at heart and to do everything that we can to help you.</p>
                     <ul>
                         <li><i class="fa fa-angle-right"></i>Adipisicing elit. Quo, optio?</li>
                         <li><i class="fa fa-angle-right"></i>Adipisicing elit. Expedita, obcaecati.</li>
