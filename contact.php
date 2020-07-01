@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="page-heading-content">
-                    <span><a href="index.html">Home</a>/<em>Contact Us</em></span>
+                    <span><a href="index.php">Home</a>/<em>Contact Us</em></span>
                     <h1>Contact Us</h1>
                 </div>
             </div>
@@ -25,7 +25,7 @@
                         <li>
                             <i class="fa fa-envelope"></i>
                             <h6>Email Address</h6>
-                            <span>contact@rosaleda.com</span>
+                            <span>contact@maheenrizvi.com</span>
                         </li>
                         <li>
                             <i class="fa fa-globe"></i>

@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="page-heading-content">
-                    <span><a href="index.html">Home</a>/<em>Our Services</em></span>
+                    <span><a href="index.php">Home</a>/<em>Our Services</em></span>
                     <h1>Our Services</h1>
                 </div>
             </div>

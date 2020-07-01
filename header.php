@@ -34,26 +34,26 @@
                 <div class="col-12">
                     <nav class="main-nav">
                         <!-- ***** Logo Start ***** -->
-                        <a href="home.html" class="logo">
+                        <a href="index.php" class="logo">
                             <img src="images/logo.png" alt="">
                         </a>
                         <!-- ***** Logo End ***** -->
                         <!-- ***** Menu Start ***** -->
                         <ul class="nav">
-                            <li><a href="home.html" class="active">Home</a></li>
-                            <li><a href="about-us.html">About</a></li>
+                            <li><a href="index.php" class="active">Home</a></li>
+                            <li><a href="about.php">About</a></li>
                             <li class="submenu">
-                                <a href="javascript:;">Services</a>
+                                <a href="services.php">Services</a>
                                 <ul>
-                                    <li><a href="services.html">Child Services</a></li>
-                                    <li><a href="team.html">Family Services</a></li>
-                                    <li><a href="single-project.html">Adult Services</a></li>
-                                    <li><a href="single-post.html">Corporate Services</a></li>
-                                    <li><a href="single-member.html">Medico Legal</a></li>
+                                    <li><a href="services.php">Child Services</a></li>
+                                    <li><a href="team.php">Family Services</a></li>
+                                    <li><a href="single-project.php">Adult Services</a></li>
+                                    <li><a href="single-post.php">Corporate Services</a></li>
+                                    <li><a href="single-member.php">Medico Legal</a></li>
                                 </ul>
                             </li>
-                            <li><a href="blog.html">Consultation</a></li>
-                            <li><a href="contact-us.html">Contact</a></li> 
+                            <li><a href="#">Consultation</a></li>
+                            <li><a href="contact.php">Contact</a></li> 
                         </ul>        
                         <a class='menu-trigger'>
                             <span>Menu</span>
