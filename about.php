@@ -118,7 +118,7 @@
                                         </div>
                                         <p>I had the privilege of looking at your own letters which made my assessment straight forward, and in particular, your commencement of treatment seems to have worked wonders.</p>
                                         <h4>Antonio Machetta</h4>
-                                        <span>SALES DIRECTOR MANAGER</span>
+                                        <span>consultant psychiatrist</span>
                                     </div>
                                 </div>
                                 <div class="item">
@@ -129,9 +129,92 @@
                                         <div class="author-member">
                                             <img src="images/testimonial-member-01.jpg" alt="">
                                         </div>
-                                        <p>Bespoke ramps literally, viral hashtag hella deep v humblebrag beard hell of kale chips cold-pressed chillwave chia food truck. Edison bulb post-ironic hoodie, portland gastropub raclette waistcoat. Narwhal pug humblebrag, XOXO edison bulb four dollar toast sustainable.</p>
-                                        <h4>Robert Henderson</h4>
-                                        <span>creative director</span>
+                                        <p>I’m very grateful for all the help I got from you! I wouldn’t be where I am right now without you. Many thanks and all the best.</p>
+                                        <h4>From a patient</h4>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="testimonial-item">
+                                        <div class="background-image">
+                                            <img src="images/testimonial-icon.png" alt="">
+                                        </div>
+                                        <div class="author-member">
+                                            <img src="images/testimonial-member-01.jpg" alt="">
+                                        </div>
+                                        <p>I write to express my heartfelt thanks for seeing me and providing me with a diagnosis. I had spent over a year trying to find the answer to what was wrong with me and until I was seen by you I was going around in circles and getting no further forward………..am so happy to have reclaimed my life. This would not have been possible without your expert help. I will always be grateful to you</p>
+                                        <h4>From a patient</h4>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="testimonial-item">
+                                        <div class="background-image">
+                                            <img src="images/testimonial-icon.png" alt="">
+                                        </div>
+                                        <div class="author-member">
+                                            <img src="images/testimonial-member-01.jpg" alt="">
+                                        </div>
+                                        <p>I’m very grateful for all the help I got from you! I wouldn’t be where I am right now without you. Many thanks and all the best.</p>
+                                        <h4>From a patient</h4>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="testimonial-item">
+                                        <div class="background-image">
+                                            <img src="images/testimonial-icon.png" alt="">
+                                        </div>
+                                        <div class="author-member">
+                                            <img src="images/testimonial-member-01.jpg" alt="">
+                                        </div>
+                                        <p>I’m very grateful for all the help I got from you! I wouldn’t be where I am right now without you. Many thanks and all the best.</p>
+                                        <h4>From a patient</h4>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="testimonial-item">
+                                        <div class="background-image">
+                                            <img src="images/testimonial-icon.png" alt="">
+                                        </div>
+                                        <div class="author-member">
+                                            <img src="images/testimonial-member-01.jpg" alt="">
+                                        </div>
+                                        <p>I’m very grateful for all the help I got from you! I wouldn’t be where I am right now without you. Many thanks and all the best.</p>
+                                        <h4>From a patient</h4>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="testimonial-item">
+                                        <div class="background-image">
+                                            <img src="images/testimonial-icon.png" alt="">
+                                        </div>
+                                        <div class="author-member">
+                                            <img src="images/testimonial-member-01.jpg" alt="">
+                                        </div>
+                                        <p>I’m very grateful for all the help I got from you! I wouldn’t be where I am right now without you. Many thanks and all the best.</p>
+                                        <h4>From a patient</h4>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="testimonial-item">
+                                        <div class="background-image">
+                                            <img src="images/testimonial-icon.png" alt="">
+                                        </div>
+                                        <div class="author-member">
+                                            <img src="images/testimonial-member-01.jpg" alt="">
+                                        </div>
+                                        <p>I’m very grateful for all the help I got from you! I wouldn’t be where I am right now without you. Many thanks and all the best.</p>
+                                        <h4>From a patient</h4>
+                                    </div>
+                                </div>
+                                <div class="item">
+                                    <div class="testimonial-item">
+                                        <div class="background-image">
+                                            <img src="images/testimonial-icon.png" alt="">
+                                        </div>
+                                        <div class="author-member">
+                                            <img src="images/testimonial-member-01.jpg" alt="">
+                                        </div>
+                                        <p>I’m very grateful for all the help I got from you! I wouldn’t be where I am right now without you. Many thanks and all the best.</p>
+                                        <h4>From a patient</h4>
                                     </div>
                                 </div>
                             </div>
