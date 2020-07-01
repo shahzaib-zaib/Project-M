@@ -89,7 +89,7 @@
                             <div>
                                 <div class="section-heading text-center">
                                     <span>TESTIMONIALS</span>
-                                    <h2>What <em>clients</em> say about us</h2>
+                                    <h2>What <em>clients</em> say about me</h2>
                                 </div>
                             </div>
                         </div>
@@ -103,9 +103,9 @@
                                         <div class="author-member">
                                             <img src="images/testimonial-member-01.jpg" alt="">
                                         </div>
-                                        <p>Bespoke ramps literally, viral hashtag hella deep v humblebrag beard hell of kale chips cold-pressed chillwave chia food truck. Edison bulb post-ironic hoodie, portland gastropub raclette waistcoat. Narwhal pug humblebrag, XOXO edison bulb four dollar toast sustainable.</p>
-                                        <h4>LENNOX ATKINSON</h4>
-                                        <span>co-founder</span>
+                                        <p>Thank you …..for being so open, patient focused and resolution-based…….You are a light in the world Maheen, thank you for all you do and who you are.</p>
+                                        <h4>Shahzaib</h4>
+                                        <span>senior management colleage</span>
                                     </div>
                                 </div>
                                 <div class="item">
@@ -116,7 +116,7 @@
                                         <div class="author-member">
                                             <img src="images/testimonial-member-01.jpg" alt="">
                                         </div>
-                                        <p>Bespoke ramps literally, viral hashtag hella deep v humblebrag beard hell of kale chips cold-pressed chillwave chia food truck. Edison bulb post-ironic hoodie, portland gastropub raclette waistcoat. Narwhal pug humblebrag, XOXO edison bulb four dollar toast sustainable.</p>
+                                        <p>I had the privilege of looking at your own letters which made my assessment straight forward, and in particular, your commencement of treatment seems to have worked wonders.</p>
                                         <h4>Antonio Machetta</h4>
                                         <span>SALES DIRECTOR MANAGER</span>
                                     </div>
