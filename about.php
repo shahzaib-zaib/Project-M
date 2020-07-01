@@ -153,7 +153,7 @@
                                         <div class="author-member">
                                             <img src="images/testimonial-member-01.jpg" alt="">
                                         </div>
-                                        <p>I’m very grateful for all the help I got from you! I wouldn’t be where I am right now without you. Many thanks and all the best.</p>
+                                        <p>Please thank Dr. Maheen very much I am so reassured to know she is getting treatment from such impressive and empathetic professionals.</p>
                                         <h4>From a patient</h4>
                                     </div>
                                 </div>
@@ -165,7 +165,7 @@
                                         <div class="author-member">
                                             <img src="images/testimonial-member-01.jpg" alt="">
                                         </div>
-                                        <p>I’m very grateful for all the help I got from you! I wouldn’t be where I am right now without you. Many thanks and all the best.</p>
+                                        <p>I cannot thank you ……. enough for the treatment that I received …….. It enabled me to understand that anxiety played a major part in my depression and that Mindfulness could help greatly….. I really appreciate your contribution to my wellness.</p>
                                         <h4>From a patient</h4>
                                     </div>
                                 </div>
@@ -177,7 +177,7 @@
                                         <div class="author-member">
                                             <img src="images/testimonial-member-01.jpg" alt="">
                                         </div>
-                                        <p>I’m very grateful for all the help I got from you! I wouldn’t be where I am right now without you. Many thanks and all the best.</p>
+                                        <p>Thank you for a really insightful and informative talk last night at The Priory. It was great to meet you and chat at the end of your talk….. You are a great speaker with a lovely manner.</p>
                                         <h4>From a patient</h4>
                                     </div>
                                 </div>
