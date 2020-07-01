@@ -4,8 +4,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="page-heading-content">
-                    <span><a href="index.php">Home</a>/<em>About Us</em></span>
-                    <h1>About Us</h1>
+                    <span><a href="index.php">Home</a>/<em>About Me</em></span>
+                    <h1>About Me</h1>
                 </div>
             </div>
         </div>
@@ -16,8 +16,8 @@
         <div class="row">
             <div class="col-md-8 offset-md-2">
                 <div class="section-heading">
-                    <span>Why Choose Us</span>
-                    <h2>some reasons why to choose us</h2>
+                    <span>My Story</span>
+                    <h2>I believe that delivering mental health care is a vocation, not a business.</h2>
                 </div>
             </div>
             <div class="col-md-4">
