@@ -130,7 +130,7 @@
                                             <img src="images/testimonial-member-01.jpg" alt="">
                                         </div>
                                         <p>I’m very grateful for all the help I got from you! I wouldn’t be where I am right now without you. Many thanks and all the best.</p>
-                                        <h4>From a patient</h4>
+                                        <span>From a patient</span>
                                     </div>
                                 </div>
                                 <div class="item">
@@ -142,7 +142,7 @@
                                             <img src="images/testimonial-member-01.jpg" alt="">
                                         </div>
                                         <p>I write to express my heartfelt thanks for seeing me and providing me with a diagnosis. I had spent over a year trying to find the answer to what was wrong with me and until I was seen by you I was going around in circles and getting no further forward………..am so happy to have reclaimed my life. This would not have been possible without your expert help. I will always be grateful to you</p>
-                                        <h4>From a patient</h4>
+                                        <span>From a patient</span>
                                     </div>
                                 </div>
                                 <div class="item">
@@ -154,7 +154,7 @@
                                             <img src="images/testimonial-member-01.jpg" alt="">
                                         </div>
                                         <p>Please thank Dr. Maheen very much I am so reassured to know she is getting treatment from such impressive and empathetic professionals.</p>
-                                        <h4>From a patient</h4>
+                                        <span>From a patient</span>
                                     </div>
                                 </div>
                                 <div class="item">
@@ -166,7 +166,7 @@
                                             <img src="images/testimonial-member-01.jpg" alt="">
                                         </div>
                                         <p>I cannot thank you ……. enough for the treatment that I received …….. It enabled me to understand that anxiety played a major part in my depression and that Mindfulness could help greatly….. I really appreciate your contribution to my wellness.</p>
-                                        <h4>From a patient</h4>
+                                        <span>From a patient</span>
                                     </div>
                                 </div>
                                 <div class="item">
@@ -178,7 +178,7 @@
                                             <img src="images/testimonial-member-01.jpg" alt="">
                                         </div>
                                         <p>Thank you for a really insightful and informative talk last night at The Priory. It was great to meet you and chat at the end of your talk….. You are a great speaker with a lovely manner.</p>
-                                        <h4>From a patient</h4>
+                                        <span>From a patient</span>
                                     </div>
                                 </div>
                                 <div class="item">
@@ -189,8 +189,8 @@
                                         <div class="author-member">
                                             <img src="images/testimonial-member-01.jpg" alt="">
                                         </div>
-                                        <p>I’m very grateful for all the help I got from you! I wouldn’t be where I am right now without you. Many thanks and all the best.</p>
-                                        <h4>From a patient</h4>
+                                        <p>Thank you for your professional help, assistance and support over the last few years. I still can’t believe how much of a frozen state I was in and will never forget what you did for me, thank you.</p>
+                                        <span>From a patient</span>
                                     </div>
                                 </div>
                                 <div class="item">
@@ -201,8 +201,8 @@
                                         <div class="author-member">
                                             <img src="images/testimonial-member-01.jpg" alt="">
                                         </div>
-                                        <p>I’m very grateful for all the help I got from you! I wouldn’t be where I am right now without you. Many thanks and all the best.</p>
-                                        <h4>From a patient</h4>
+                                        <p>I have been doing very well. And very busy with my life and being very positive. I have just returned from my trip and it has been a great success with no stress or anxiety. I am really proud of myself…… I thank you for all your support and advise in the process of helping me to recovery. I greatly appreciates (sic) it.</p>
+                                        <span>From a patient</span>
                                     </div>
                                 </div>
                                 <div class="item">
@@ -213,8 +213,8 @@
                                         <div class="author-member">
                                             <img src="images/testimonial-member-01.jpg" alt="">
                                         </div>
-                                        <p>I’m very grateful for all the help I got from you! I wouldn’t be where I am right now without you. Many thanks and all the best.</p>
-                                        <h4>From a patient</h4>
+                                        <p>I find Maheen’s expert interventions with my patients very valuable indeed. I am delighted to have her as a point of contact at The Priory. My patients who have consulted with Maheen have all been delighted with her sensitivity and expert input.</p>
+                                        <span>From a patient</span>
                                     </div>
                                 </div>
                             </div>
