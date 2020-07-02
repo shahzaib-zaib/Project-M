@@ -338,20 +338,6 @@ WELCOME BLOCK CSS
   background: #fdad54;
   padding: 0px 5px;
 }
-.welcome-box h1 {
-  height: 130px;
-  line-height: 130px;
-  display: inline-block;
-  font-weight: 700;
-  font-size: 92px;
-  color: #1e1e1e;
-  background: #fdad54;
-  display: inline-block;
-  text-transform: capitalize;
-  margin-bottom: 30px;
-  letter-spacing:4px;
-  padding: 5px 15px;
-}
 .welcome-title span {
   font-size:36px;
   display:block;

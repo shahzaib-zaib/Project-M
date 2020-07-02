@@ -7,8 +7,8 @@
                     <img src="images/banner-decoration.png" alt="">
                 </div>
                 <div class="welcome-box">
-                    <h1>We are <span class="txt-type" data-wait="3000" data-words='["La Rosaleda", "Creative", "Unique"]'></span></h1>
-                    <p>minimal <em>template</em></p>
+                    <h1><span class="txt-type" data-wait="3000" data-words='["Private Mental Healthcare", "For Individuals", "Families & Organisations"]'></span></h1>
+                    <p>Face-to-Face <em>and Online</em></p>
                     <div class="scroll-down next-section">
                         <img src="images/mouse-scroll.png" alt="">
                     </div>
