@@ -38,14 +38,14 @@
                         <div class="col-md-7">
                             <div id='tabs'>
                                 <ul>
-                                <li><a href='#tabs-1'>OUR MISSION
+                                <li><a href='#tabs-1'>FOR ADULTS
                                 </a></li>
-                                <li><a href='#tabs-2'>OUR ADVANTAGES</a></li>
-                                <li><a href='#tabs-3'>OUR GUARANTEES</a></li>
+                                <li><a href='#tabs-2'>FOR CHILDREN</a></li>
+                                <li><a href='#tabs-3'>MEDICO LEGAL</a></li>
                                 </ul>
                                 <section class='tabs-content'>
                                 <article id='tabs-1'>
-                                    <p>Farm-to-table af direct trade tumblr, bespoke paleo venmo PBRBsta neutra vegan craft beer echo park. Echo park hell of ugh, synthicasti coloring book cardigan truffaut hexagon dreamcatcher microdosingil este.<br><br>Farm-to-table af direct trade tumblr, bespoke paleo venmo PBRBsta lorem ipsum dolor amet ningun postedam postekaris vegan craft beer echo park. Echo park hell of ugh, synthicasti coloring book cardigan.</p>
+                                    <p>We can offer a unique perspective for adults with mental health difficulties which strives to place such presentations in the context of people’s lives and current living circumstances. This is broadly termed the systemic approach and in recent years has expanded to focus on metabolic and physical contributions. In addition, Dr Maheen works from various bases where there are several adult psychiatrists also practising with particular skills and specialist interests, and can arrange onward referral where this seems most appropriate.</p>
                                     <a href="#">More about us</a>
                                 </article>
                                 <article id='tabs-2'>
@@ -77,7 +77,7 @@
             </div>
             <div class="col-md-4">
                 <div class="service-item">
-                    <h4>ready to collaboration</h4>
+                    <h4>Quality</h4>
                     <div class="dev"></div>
                     <i class="fimanager flaticon-017-collaboration"></i>
                     <div class="hover-effect">
