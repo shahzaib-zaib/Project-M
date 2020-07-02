@@ -25,12 +25,12 @@
                         <li>
                             <i class="fa fa-envelope"></i>
                             <h6>Email Address</h6>
-                            <span>contact@maheenrizvi.com</span>
+                            <span>info@maheenrizvi.com</span>
                         </li>
                         <li>
                             <i class="fa fa-globe"></i>
                             <h6>Website</h6>
-                            <span>www.rosaleda.com</span>
+                            <span>www.drmaheenrizvi.com</span>
                         </li>
                     </ul>
                 </div>
