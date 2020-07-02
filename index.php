@@ -81,27 +81,27 @@
                     <div class="dev"></div>
                     <i class="fimanager flaticon-017-collaboration"></i>
                     <div class="hover-effect">
-                        <p>Lorem ipsum dolor amet you  probably haven't heard of them aster literally jean shorts woke. Food truck post-ironic lovely layout hashtag seitan.</p>
+                        <p>We must provide the level of quality, service, and effectiveness that we would want for our own families.</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="service-item">
-                    <h4>Fixes &amp; improvements</h4>
+                    <h4>Integrity</h4>
                     <div class="dev"></div>
                     <i class="fimanager flaticon-018-corporate"></i>
                     <div class="hover-effect">
-                        <p>Lorem ipsum dolor amet you  probably haven't heard of them aster literally jean shorts woke. Food truck post-ironic lovely layout hashtag seitan.</p>
+                        <p>We are always scrupulously honest in our dealing with everyone.</p>
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="service-item">
-                    <h4>healthy pertnership</h4>
+                    <h4>Care</h4>
                     <div class="dev"></div>
                     <i class="fimanager flaticon-044-partnership"></i>
                     <div class="hover-effect">
-                        <p>Lorem ipsum dolor amet you  probably haven't heard of them aster literally jean shorts woke. Food truck post-ironic lovely layout hashtag seitan.</p>
+                        <p>We always treat our clients respectfully and fairly.</p>
                     </div>
                 </div>
             </div>
