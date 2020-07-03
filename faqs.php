@@ -15,7 +15,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-            <h4>What to expect</h4>
+            <h4>General</h4>
                 <ul class="accordion">   
                     <li>
                         <a>What if I have a complaint about treatment?</a>
@@ -24,11 +24,9 @@
                         </div>
                     </li>
                     <li>
-                        <a>Where do i find my product key?</a>
+                        <a>How do I know if the treatment will be beneficial?</a>
                         <div class="content">
-                            <p>
-                            Vexillologist listicle glossier ugh post-ironic. Ethical scenester irony organic disrupt. Lumbersexual four loko wolf art party helvetica cold-pressed polaroid biodiesel tacos quinoa tilde keffiyeh woke. Edison bulb meggings shaman bushwick iPhone lo-fi.
-                            A schlitz paleo snackwave everyday carry. Small batch sustainable art party vegan flannel jianbing adaptogen umami yuccie. Kickstarter before they sold out godard banh mi pop-up roof party vexillologist semiotics actually fingerstache taiyaki pug art party 3 wolf moon bespoke. Tofu vexillologist raclette bushwick copper mug keytar. Bespoke vape 3 wolf moon narwhal +1 authentic coloring book chartreuse.</p>
+                            <p>There are no guarantees with psychiatry. I work in this field because I have seen people achieve tremendous gains form this kind of work. That doesn't mean that I can guarantee that every person will be helped, but if what you need is something that I can help with then I will use the best available treatments to do my utmost to help.</p>
                         </div>
                     </li>
                     <li>
