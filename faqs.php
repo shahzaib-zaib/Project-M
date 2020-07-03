@@ -30,11 +30,9 @@
                         </div>
                     </li>
                     <li>
-                        <a>How long does it take to download?</a>
+                        <a>What are your opening hours?</a>
                         <div class="content">
-                            <p>
-                            <img src="http://placehold.it/370x300" alt="">Vexillologist listicle glossier ugh post-ironic. Ethical scenester irony organic disrupt. Lumbersexual four loko wolf art party helvetica cold-pressed polaroid biodiesel tacos quinoa tilde keffiyeh woke. Edison bulb meggings shaman bushwick iPhone lo-fi.
-                            A schlitz paleo snackwave everyday carry. Small batch sustainable art party vegan flannel jianbing adaptogen umami yuccie. Kickstarter before they sold out godard banh mi pop-up roof party vexillologist semiotics actually fingerstache taiyaki pug art party 3 wolf moon bespoke. Tofu vexillologist raclette bushwick copper mug keytar. Bespoke vape 3 wolf moon.<br><br>Hella forage letterpress selvage hexagon. Fanny pack portland brooklyn artisan yuccie whatever. Scenester hammock cred pabst, chambray tbh distillery small batch synth brunch cold-pressed actually. swag messenger bag, actually fanny pack photo booth mustache mixtape bespoke taiyaki raw denim knausgaard four loko. Tacos synth tumeric pickled, iPhone bushwick cred helvetica ethical cray sustainable. Leggings church-key shabby chic subway tile gastropub.</p>
+                            <p>My phone is answered between the hours of 9 am to 6 pm Monday to Friday and 9:30 am to 3:30 pm on Saturdays, but you can leave a message outside of these hours and someone will call you back when I am open.</p>
                         </div>
                     </li>
                     <li>
