@@ -15,7 +15,8 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <ul class="accordion">
+            <h4>What to expect</h4>
+                <ul class="accordion">   
                     <li>
                         <a>What a product key?</a>
                         <div class="content">

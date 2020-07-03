@@ -2374,6 +2374,25 @@ FAQs
   margin: 120px 0px;
 }
 
+.faqs-content h4 {
+  color: #000;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  text-transform: capitalize;
+  margin-bottom: 40px;
+  padding-bottom: 15px;
+  position: relative;
+}
+.faqs-content h4:after{
+  position: absolute;
+  width: 45px;
+  height: 4px;
+  background-color: #fdad54;
+  content: '';
+  left: 0;
+  bottom: 0;
+}
 .faqs-content .accordion {
   margin-right: 45px;
 }
