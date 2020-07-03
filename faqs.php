@@ -36,33 +36,15 @@
                         </div>
                     </li>
                     <li>
-                        <a>What steps to follow after download?</a>
+                        <a>Can I refer someone else into treatment?</a>
                         <div class="content">
-                            <p>90'As schlitz paleo snackwave everyday carry. Small batch sustainable art party vegan flannel jianbing adaptogen umami yuccie. Kickstarter before they sold out godard banh mi pop-up roof party vexillologist semiotics actually fingerstache taiyaki pug art party 3 wolf moon bespoke.<br><br>
-                            Vexillologist listicle glossier ugh post-ironic. Ethical scenester irony organic disrupt. Lumbersexual four loko wolf art party helvetica cold-pressed polaroid biodiesel tacos quinoa tilde keffiyeh woke. Edison bulb meggings shaman bushwick iPhone lo-fi.
-                            A schlitz paleo snackwave everyday carry. Small batch sustainable art party vegan flannel jianbing adaptogen umami yuccie. Kickstarter before they sold out godard banh mi pop-up roof party vexillologist semiotics actually fingerstache taiyaki pug art party 3 wolf moon bespoke. Tofu vexillologist raclette bushwick copper mug keytar. Bespoke vape 3 wolf moon narwhal +1 authentic coloring book chartreuse</p>
+                            <p>Most of my residential treatment enquiries for addictions and alcoholism start with a call from a family member, friend or employer. I have dealt with every kind of difficult situation and I am happy to help you do what can be done. Sometimes if the person is unwilling to address their problem then you may not be able to do anything about them, but I can help and advise you about how to look after yourself and any other people who are being affected, and also how to start to bring pressure to bear on the person so that hopefully they will be willing to get some help.</p>
                         </div>
                     </li>
                     <li>
-                        <a>More information about install</a>
+                        <a>What issues do you treat?</a>
                         <div class="content">
-                            <p>90'As schlitz paleo snackwave everyday carry. Small batch sustainable art party vegan flannel jianbing adaptogen umami yuccie. Kickstarter before they sold out godard banh mi pop-up roof party vexillologist semiotics actually fingerstache taiyaki pug art party 3 wolf moon bespoke.<br><br>
-                            <img src="http://placehold.it/370x300" alt="">Vexillologist listicle glossier ugh post-ironic. Ethical scenester irony organic disrupt. Lumbersexual four loko wolf art party helvetica cold-pressed polaroid biodiesel tacos quinoa tilde keffiyeh woke. Edison bulb meggings shaman bushwick iPhone lo-fi.
-                            A schlitz paleo snackwave everyday carry. Small batch sustainable art party vegan flannel jianbing adaptogen umami yuccie. Kickstarter before they sold out godard banh mi pop-up roof party vexillologist semiotics actually fingerstache taiyaki pug art party 3 wolf moon bespoke. Tofu vexillologist raclette bushwick copper mug keytar. Bespoke vape 3 wolf moon.<br><br>Hella forage letterpress selvage hexagon. Fanny pack portland brooklyn artisan yuccie whatever. Scenester hammock cred pabst, chambray tbh distillery small batch synth brunch cold-pressed actually. swag messenger bag, actually fanny pack photo booth mustache mixtape bespoke taiyaki raw denim knausgaard four loko. Tacos synth tumeric pickled, iPhone bushwick cred helvetica ethical cray sustainable. Leggings church-key shabby chic subway tile gastropub.</p>
-                        </div>
-                    </li>
-                    <li>
-                        <a>What comes next?</a>
-                        <div class="content">
-                            <p>Hella forage letterpress selvage hexagon. Fanny pack portland brooklyn artisan yuccie whatever. Scenester hammock cred pabst, chambray tbh distillery small batch synth brunch cold-pressed actually. swag messenger bag, actually fanny pack photo booth mustache mixtape bespoke taiyaki raw denim knausgaard four loko. Tacos synth tumeric pickled, iPhone bushwick cred helvetica ethical cray sustainable. Leggings church-key shabby chic subway tile gastropub.</p>
-                        </div>
-                    </li>
-                    <li>
-                        <a>How do i get the best resolution?</a>
-                        <div class="content">
-                            <p>90'As schlitz paleo snackwave everyday carry. Small batch sustainable art party vegan flannel jianbing adaptogen umami yuccie. Kickstarter before they sold out godard banh mi pop-up roof party vexillologist semiotics actually fingerstache taiyaki pug art party 3 wolf moon bespoke.<br><br>
-                            Vexillologist listicle glossier ugh post-ironic. Ethical scenester irony organic disrupt. Lumbersexual four loko wolf art party helvetica cold-pressed polaroid biodiesel tacos quinoa tilde keffiyeh woke. Edison bulb meggings shaman bushwick iPhone lo-fi.
-                            A schlitz paleo snackwave everyday carry. Small batch sustainable art party vegan flannel jianbing adaptogen umami yuccie. Kickstarter before they sold out godard banh mi pop-up roof party vexillologist semiotics actually fingerstache taiyaki pug art party 3 wolf moon bespoke. Tofu vexillologist raclette bushwick copper mug keytar. Bespoke vape 3 wolf moon narwhal +1 authentic coloring book chartreuse.</p>
+                            <p>It's a very wide range, but the main theme is that I am here to help with anything that is troubling you in your mind; whether it's a slight worry that just needs a little help, through to more serious issues. One thing I won't do is tell you I can help if I can't, so feel free to call me and I can talk it through with you.</p>
                         </div>
                     </li>
                 </ul>
