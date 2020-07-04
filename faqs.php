@@ -65,9 +65,9 @@
                         </div>
                     </li>
                     <li>
-                        <a>What are your opening hours?</a>
+                        <a>How long is each session?</a>
                         <div class="content">
-                            <p>My phone is answered between the hours of 9 am to 6 pm Monday to Friday and 9:30 am to 3:30 pm on Saturdays, but you can leave a message outside of these hours and someone will call you back when I am open.</p>
+                            <p>he length of session depends on the situation. For an initial assessment with a Psychiatrist of Psychologist this could last 90 minutes.</p>
                         </div>
                     </li>
                     <li>
