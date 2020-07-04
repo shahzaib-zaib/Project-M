@@ -99,16 +99,15 @@
                 <h4>Advocacy</h4>
                 <ul class="accordion">   
                     <li>
-                        <a>What is the cancellation policy?</a>
+                        <a>What if I find it difficult to understand my treatment or care options?</a>
                         <div class="content">
-                            <p>Please contact me as soon as possible to let me know if you would like to cancel an appointment. Cancellations with less than 48 but more than 24 hours’ notice are usually charged at half price.</p>
-                            <p>Regrettably, cancellations with less than 24 hours’ notice before the appointment or non-attended appointments without any prior notice are charged at the full price.</p>
+                            <p></p>
                         </div>
                     </li>
                     <li>
-                        <a>Are the sessions confidential?</a>
+                        <a>How to get an advocate</a>
                         <div class="content">
-                            <p>All of the conversations and appointments that you have with me are confidential. The exception to this is if you pose a danger to yourself or others. At this point the relevant parties will be informed.</p>
+                            <p></p>
                         </div>
                     </li>
                 </ul>
