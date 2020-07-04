@@ -20,7 +20,7 @@
                     <li>
                         <a>What if I have a complaint about treatment?</a>
                         <div class="content">
-                            <p>If you feel unhappy at any point with our service then please do not hesitate to call us directly and we will review the situation with you and address the issue immediately.<br>
+                            <p>If you feel unhappy at any point with our service then please do not hesitate to call us directly and we will review the situation with you and address the issue immediately.</p>
                         </div>
                     </li>
                     <li>
@@ -48,19 +48,20 @@
                         </div>
                     </li>
                 </ul>
-                
-                <h4>General</h4>
+
+                <h4>Appointment & Fees</h4>
                 <ul class="accordion">   
                     <li>
-                        <a>What if I have a complaint about treatment?</a>
+                        <a>What is the cancellation policy?</a>
                         <div class="content">
-                            <p>If you feel unhappy at any point with our service then please do not hesitate to call us directly and we will review the situation with you and address the issue immediately.<br>
+                            <p>Please contact me as soon as possible to let me know if you would like to cancel an appointment. Cancellations with less than 48 but more than 24 hours’ notice are usually charged at half price.</p>
+                            <p>Regrettably, cancellations with less than 24 hours’ notice before the appointment or non-attended appointments without any prior notice are charged at the full price.</p>
                         </div>
                     </li>
                     <li>
-                        <a>How do I know if the treatment will be beneficial?</a>
+                        <a>Are the sessions confidential?</a>
                         <div class="content">
-                            <p>There are no guarantees with psychiatry. I work in this field because I have seen people achieve tremendous gains form this kind of work. That doesn't mean that I can guarantee that every person will be helped, but if what you need is something that I can help with then I will use the best available treatments to do my utmost to help.</p>
+                            <p>All of the conversations and appointments that you have with me are confidential. The exception to this is if you pose a danger to yourself or others. At this point the relevant parties will be informed.</p>
                         </div>
                     </li>
                     <li>
