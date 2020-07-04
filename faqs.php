@@ -71,15 +71,21 @@
                         </div>
                     </li>
                     <li>
-                        <a>Can I refer someone else into treatment?</a>
+                        <a>Can I pay by credit card?</a>
                         <div class="content">
-                            <p>Most of my residential treatment enquiries for addictions and alcoholism start with a call from a family member, friend or employer. I have dealt with every kind of difficult situation and I am happy to help you do what can be done. Sometimes if the person is unwilling to address their problem then you may not be able to do anything about them, but I can help and advise you about how to look after yourself and any other people who are being affected, and also how to start to bring pressure to bear on the person so that hopefully they will be willing to get some help.</p>
+                            <p>Yes, you can pay by calling _______. I accept all major credit cards but do not accept cash or cheques.</p>
                         </div>
                     </li>
                     <li>
-                        <a>What issues do you treat?</a>
+                        <a>Can I pay using Private Medical Insurance?</a>
                         <div class="content">
-                            <p>It's a very wide range, but the main theme is that I am here to help with anything that is troubling you in your mind; whether it's a slight worry that just needs a little help, through to more serious issues. One thing I won't do is tell you I can help if I can't, so feel free to call me and I can talk it through with you.</p>
+                            <p>If you call me and let me know what you need, I'll be happy to let you know what can be covered.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <a>Do you prescribe medication and what are the costs?</a>
+                        <div class="content">
+                            <p>If I need to prescribe medication for you then you will be informed of any costs in advance. Some medications are very expensive, and so we may recommend that you contact the NHS as soon as you can to access these more cost effectively.</p>
                         </div>
                     </li>
                 </ul>
