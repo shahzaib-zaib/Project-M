@@ -88,6 +88,29 @@
                             <p>If I need to prescribe medication for you then you will be informed of any costs in advance. Some medications are very expensive, and so we may recommend that you contact the NHS as soon as you can to access these more cost effectively.</p>
                         </div>
                     </li>
+                    <li>
+                        <a>What are the costs for treatment?</a>
+                        <div class="content">
+                            <p>Mental health services always seem to be pretty expensive, because they almost always involve focussed one to one time with someone with a high degree of training. I do my best to keep my fees as low as I can so that you can afford the help you want.</p>
+                        </div>
+                    </li>
+                </ul>
+
+                <h4>Advocacy</h4>
+                <ul class="accordion">   
+                    <li>
+                        <a>What is the cancellation policy?</a>
+                        <div class="content">
+                            <p>Please contact me as soon as possible to let me know if you would like to cancel an appointment. Cancellations with less than 48 but more than 24 hours’ notice are usually charged at half price.</p>
+                            <p>Regrettably, cancellations with less than 24 hours’ notice before the appointment or non-attended appointments without any prior notice are charged at the full price.</p>
+                        </div>
+                    </li>
+                    <li>
+                        <a>Are the sessions confidential?</a>
+                        <div class="content">
+                            <p>All of the conversations and appointments that you have with me are confidential. The exception to this is if you pose a danger to yourself or others. At this point the relevant parties will be informed.</p>
+                        </div>
+                    </li>
                 </ul>
             </div>
         </div>
