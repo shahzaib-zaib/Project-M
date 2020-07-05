@@ -58,9 +58,22 @@
                                 </dl>
 
                                 <h5>What practical strategies can parents/caregivers use?</h5>
+                                <p>Parents play a crucial role in supporting their child back into school.  It is important to have both parents/caregivers actively involved even when custody is split or joint.</p>
                                 <dl>
-                                    <li>Get back into school - perhaps surprising for some, the number one factor increasing the likelihood of success with children who can’t or won’t go to school is an early return to the physical environment of school.  Identifying particular classes which the child can attend, identifying a limited time period where the child is required to be in the building, or identifying certain days which the child must attend are all legitimate strategies to employ and starting points for intervention goals and objectives.</li>
-                                    <li>Therapy is helpful to address the underlying mental health issues - Depending on the situation, therapy can be individual, family, or couples sessions. A 2003 study showed that 83% of children with school refusal behaviours treated with cognitive therapy were attending school at the one year follow-up.  Other treatments may also be necessary, such as medication, family therapy, or educational interventions for learning disorders or classroom misbehaviour as appropriate and necessary.  Each solution must be tailored to the needs and concerns of the child.</li>
+                                    <li>Believe that your child will get over the problem and let them know that you believe they can handle it.</li>
+                                    <li>Listen to your child and encourage them to talk about their fears at times other than when you are attempting to obtain school attendance.</li>
+                                    <li>Be understanding, use reflective listening, don’t use shame.</li>
+                                    <li>Maintain good contact with school and teacher.</li>
+                                    <li>Make sure that the child knows you will return to pick them up or that they are provided adequate supervision after school.</li>
+                                    <li>Prepare them with gradual separations.</li>
+                                    <li>Inform them that you expect them to stay for the entire day.</li>
+                                    <li>Leave quickly (don’t look back or hover).</li>
+                                    <li>Do not reinforce the child’s distress by rescuing.</li>
+                                    <li>Be reliable and on time when picking up your child.</li>
+                                    <li>Have the other parent, relative, neighbour, or someone else who is less emotionally involved with the child take the child to school.</li>
+                                    <li>Let the child have something of yours to keep in their pocket i.e. a symbol or picture.</li>
+                                    <li>Give the child as much control as possible through providing them the illusion of control (“Do you want to wear your green sweater or red shirt when you go to school today?”)</li>
+                                    <li>Prolonged goodbyes don’t help the situation. A firm, caring, and quick separation is best for all concerned.</li>
                                 </dl>
 
                             </div>
