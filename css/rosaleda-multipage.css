@@ -1246,7 +1246,7 @@ WHY CHOOSE US
   margin-top: 50px;
   margin-bottom: 10px;
   line-height: 32px;
-  font-size: 24px;
+  font-size: 35px;
   text-transform: uppercase;
   letter-spacing: 0.5px;
   font-weight: 600;
@@ -1255,7 +1255,7 @@ WHY CHOOSE US
 .why-choose-us .section-heading blockquote {
   padding: 30px;
   font-size: 18px;
-  color: #1e1e1e;
+  color: #222;
   line-height: 30px;
   font-weight: 500;
 }
@@ -1281,8 +1281,28 @@ WHY CHOOSE US
   cursor: pointer;
   transition: all 0.3s;
 }
+.why-choose-us .feature-item2 {
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  padding: 40px;
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-left: 5px solid #fdad54;
+  height: 300px;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.3s;
+}
 
 .why-choose-us .feature-item h4 {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #1e1e1e;
+  letter-spacing: 0.5px;
+  margin-bottom: 25px;
+}
+.why-choose-us .feature-item2 h4 {
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 600;
@@ -1301,16 +1321,35 @@ WHY CHOOSE US
   font-weight: 500;
   transition: all 0.3s;
 }
+.why-choose-us .feature-item2 span {
+  position: absolute;
+  font-size: 60px;
+  color: #fdad54;
+  opacity: 0.25;
+  right: 35px;
+  top: 0;
+  font-weight: 500;
+  transition: all 0.3s;
+}
 
 .why-choose-us .feature-item:hover {
+  background-color: #fdad54;
+}
+.why-choose-us .feature-item2:hover {
   background-color: #fdad54;
 }
 
 .why-choose-us .feature-item:hover span {
   color: #fff;
 }
+.why-choose-us .feature-item2:hover span {
+  color: #fff;
+}
 
 .why-choose-us .feature-item:hover p {
+  color: #1e1e1e;
+}
+.why-choose-us .feature-item2:hover p {
   color: #1e1e1e;
 }
 
