@@ -36,7 +36,7 @@
                             <div class="blog-post">
                                 <div class="blog-thumb">
                                     <img src="images/blog2.jpg" alt="">
-                                    <span>child refuses</span>
+                                    <span>Child Refuses</span>
                                 </div>
                                 <h4>What to do when your child refuses to go to school</h4>
                                 <ul>

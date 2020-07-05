@@ -4,8 +4,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="page-heading-content">
-                    <span><a href="index.php">Home</a>/<em>Family and Friend</em></span>
-                    <h1>Family and Friend</h1>
+                    <span><a href="index.php">Home</a>/<em>Child Refuses</em></span>
+                    <h1>Child Refuses</h1>
                 </div>
             </div>
         </div>
@@ -21,32 +21,48 @@
                             <div class="blog-post">
                                 <div class="blog-thumb">
                                     <img src="images/blog3.jpg" alt="">
-                                    <span>Family and Friend</span>
+                                    <span>Child Refuses</span>
                                 </div>
-                                <h4>How to explain autism to your family and friends</h4>
+                                <h4>What to do when your child refuses to go to school</h4>
                                 <ul>
                                     <li><a href="#">Admin</a></li>
-                                    <li><a href="#">July 10, 2020</a></li>
+                                    <li><a href="#">Mar 15, 2020</a></li>
                                     <li><a href="#">10 comments</a></li>
                                 </ul>
-                                <p>Awareness of autism is growing, with greater representation in our culture thanks to public figures like Chris Packham, Dan Ackroyd and Susan Boyle speaking about their own experiences. But there is still a long way to go. For many, the mental picture of an autistic person hasn’t progressed since Dustin Hoffman’s memorable performance in the movie Rain Man. So when confronted with the knowledge that a child they know and love has been diagnosed with autistic spectrum disorder (ASD), responses can vary from panic to total denial. What can you do as the parent of an autistic child to break down these barriers and help those around your child support and accept their diagnosis?</p>
+                                <p>When children completely refuse to go to school this can be extremely distressing for all parties.  It is often accompanied by melt-downs, physical complaints such as stomach aches, headaches, vomiting, rapid heartbeat, dizziness, pleading or begging to stay at home and even young people threatening to harm themselves if they are made to go to school.</p>
+                                <p>The behaviours associated with school refusal are extremely stressful for the young people, parents and siblings, and are of concern for the school and teachers.  For the young person, it has a significant negative effect on their academic and social development, and can lead to them completely dropping out of school, possibly causing significant consequences for future employment.</p>
+                                <p>Paige Fujiu-Baird, Clinical Psychologist and Psychotherapist, will be speaking about meeting the challenges of school refusal at the Virtual SEND Conference to empower parents with support and guidance when seeking help for their children.  Here, she outlines her approach to supporting children to engage with their education and return to school.</p>
                                 <br>
-                                <h5>Spectrum</h5>
-                                <p>The concept of an autistic spectrum is becoming much more widely known, but not necessarily always understood. Unhelpfully, the assertion that a person is ‘on the spectrum’ is often used as shorthand for describing any sort of awkward or unusual character traits. The effect may be to create a further negative impression of what it means to be autistic. Sometimes it can help those around you and your child if you start by explaining what the spectrum actually is and where your child fits into it.</p>
-                                <p>This is a big subject and you might not have much time to get your points across, so start with the basics. Let people know about the behaviours associated with autism and explain that they are divided into two groups:</p>
+                                <h5>What is school refusal?</h5>
+                                <p>School refusal is child-motivated refusal to attend school or difficulties in remaining in school the entire day.  School refusal is a condition characterised by reluctance or refusal to go to school by a child who:</p>
                                 <dl>
-                                    <li>Children with different social skills. People close to your child may have already noticed that they don’t respond to greetings or behave in the expected way in social situations. This can manifest itself through speech or with nonverbal communication, most commonly avoiding eye contact or facial expressions.</li>
-                                    <li>Restricted or repetitive behaviours and interests. Autistic children often have intense fascination with a single thing (and it could be almost anything) or may want to stick to set routines and rituals around food, for example, or taking the same route to school. Explain that this is not to be avoided or corrected - not only is it a normal part of their ASD, it’s a way for them to regulate their world and feel more secure. Acceptance of these behaviours can go a long way to helping your child. The more people understand them the more they will feel in control and able to help your child.</li>
+                                    <li>Seeks the comfort and security of home, preferring to remain close to parental figures</li>
+                                    <li>Displays evidence of emotional upset or unexplained physical symptoms at the prospect of going to school</li>
+                                    <li>Manifests no severe antisocial tendencies</li>
+                                    <li>Does not attempt to conceal the problem from parents or caregivers</li>
                                 </dl>
 
-                                <h5>Resistance</h5>
-                                <p>It’s a natural and common response to ask whether anything has caused their autism. There is much misinformation out there, from fears about vaccinations to the idea that autism is caused by ‘bad’ parenting. The best way to dispel these myths is to stick to the science. Explain that this is a proven genetic condition that begins in utero. Autism is a neurodevelopmental difference in their DNA, so it’s not something they’re going to ‘grow out of’.</p>
-                                <p>Another common reaction is to resist the diagnosis altogether and seek alternative explanations. This is based in fear, for your child, your family and for them. It’s natural to want to fight something that can be perceived as a negative. In this case, explain that there is no cure, and if there were, it would mean completely rewiring the brain, effectively turning them into a different person. It is not only unrealistic, it is potentially harmful to the child to expend energy on trying to change who they are.</p>
+                                <h5>Why do children refuse to attend school?</h5>
+                                <p>The root cause of school refusal is anxiety, which will look very different according to the age of the child.  Younger children may be more anxious about being separated from caregivers, fear a teacher, or fear being picked on by older children. Frequently older school refusers have concerns about academic performance, worries about making friends, eating in the cafeteria, using the school bathroom, changing for gym, being called on for class, or being made fun of by peers. For some children there are legitimate fears of being bullied, gangs, school violence, or being ostracized and ridiculed.</p>
+                                <p>Other reasons may include:</p>
+                                <dl>
+                                    <li>A history of physical and emotional separations that create an underlying anxiety about being away from home or parental figures.</li>
+                                    <li>The fear of losing a parent through illness, divorce, or death. Fear of physical and emotional abandonment may make it difficult for the child to have their parents out of their sight and out of their control.</li>
+                                    <li>Changes in the stability of the family system at home and in the family, such as frequent deaths in the family, divorce, moves to a new house, separations, transfers to another job or community, or jealously of new siblings.</li>
+                                </dl>
 
-                                <h5>Acceptance</h5>
-                                <p>The sooner the people closest to your child come to terms with their diagnosis the better. Many people believe autism is a negative label that will harm a person’s life chances. In fact the opposite is true, understanding autism and not hiding it, particularly in their formative years can help your child understand who they are and enable them to focus on their strengths as they grow older. Ultimately what everyone who loves your child really wants is for them to be healthy and happy – their acceptance of this diagnosis will go a long way to making this a possibility.</p>
-                                <p>Having a diagnosis also means that your family will be eligible for support at school along with therapies and services that can be transformative. </p>
-                                
+                                <h5>What kinds of support and treatment are effective for school refusers?</h5>
+                                <dl>
+                                    <li>Get back into school - perhaps surprising for some, the number one factor increasing the likelihood of success with children who can’t or won’t go to school is an early return to the physical environment of school.  Identifying particular classes which the child can attend, identifying a limited time period where the child is required to be in the building, or identifying certain days which the child must attend are all legitimate strategies to employ and starting points for intervention goals and objectives.</li>
+                                    <li>Therapy is helpful to address the underlying mental health issues - Depending on the situation, therapy can be individual, family, or couples sessions. A 2003 study showed that 83% of children with school refusal behaviours treated with cognitive therapy were attending school at the one year follow-up.  Other treatments may also be necessary, such as medication, family therapy, or educational interventions for learning disorders or classroom misbehaviour as appropriate and necessary.  Each solution must be tailored to the needs and concerns of the child.</li>
+                                </dl>
+
+                                <h5>What practical strategies can parents/caregivers use?</h5>
+                                <dl>
+                                    <li>Get back into school - perhaps surprising for some, the number one factor increasing the likelihood of success with children who can’t or won’t go to school is an early return to the physical environment of school.  Identifying particular classes which the child can attend, identifying a limited time period where the child is required to be in the building, or identifying certain days which the child must attend are all legitimate strategies to employ and starting points for intervention goals and objectives.</li>
+                                    <li>Therapy is helpful to address the underlying mental health issues - Depending on the situation, therapy can be individual, family, or couples sessions. A 2003 study showed that 83% of children with school refusal behaviours treated with cognitive therapy were attending school at the one year follow-up.  Other treatments may also be necessary, such as medication, family therapy, or educational interventions for learning disorders or classroom misbehaviour as appropriate and necessary.  Each solution must be tailored to the needs and concerns of the child.</li>
+                                </dl>
+
                             </div>
                         </div>
                     </div>
