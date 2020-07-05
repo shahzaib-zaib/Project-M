@@ -21,7 +21,29 @@
                     <p>Unfortunately I am not able to accept instructions funded by legal aid.</p>
                 </div>
             </div>
+            <div class="col-md-4">
+                <div class="feature-item2">
+                    <h4>Psychiatry</h4>
+                    <p>If you are looking for a diagnosis, a second opinion or need to see a highly experienced, our Psychiatrists can help.</p>
+                    <span>1</span>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="feature-item2">
+                    <h4>Psychology</h4>
+                    <p>Offering evidence based treatments, such as CBT, psychologists will help you overcome you difficulties and teach you skills you will use in your future</p>
+                    <span>2</span>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="feature-item2">
+                    <h4>ADHD</h4>
+                    <p>ADHD is often misdiagnosed in adults, and yet with the correct treatment, can be effectively treated.</p>
+                    <span>3</span>
+                </div>
+            </div>
         </div>
     </div>
 </div>
+
 <?php include 'footer.php'; ?>
