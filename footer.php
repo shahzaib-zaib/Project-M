@@ -39,14 +39,14 @@
                 <h4>Recent Blogs</h4>
                     <ul>
                         <li>
-                            <a href="single-post.html">
+                            <a href="Family-and-Friend.php">
                                 <img src="./images/blog-small-1.jpg" alt="">
                                 <p>How to explain autism to your family and friends</p>
                                 <span><i class="fa fa-calendar"></i>July 10, 2020</span>
                             </a>
                         </li>
                         <li>
-                            <a href="single-post.html">
+                            <a href="child-refuses.php">
                                 <img src="images/blog-small-2.jpg" alt="">
                                 <p>What to do when your child refuses to go to school</p>
                                 <span><i class="fa fa-calendar"></i>Mar 15, 2020</span>
