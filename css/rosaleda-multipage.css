@@ -1301,6 +1301,7 @@ WHY CHOOSE US
   border-top-right-radius: 30px;
   border-left: 5px solid #fdad54;
   position: relative;
+  height: 550px;
   cursor: pointer;
   transition: all 0.3s;
 }
@@ -1368,10 +1369,16 @@ WHY CHOOSE US
 }
 
 .why-choose-us .feature-item:hover p {
-  color: #1e1e1e;
+  color: #fff;
+}
+.why-choose-us .feature-item:hover h4 {
+  color: #fff;
 }
 .why-choose-us .feature-item2:hover p {
-  color: #1e1e1e;
+  color: #fff;
+}
+.why-choose-us .feature-item2:hover h4 {
+  color: #fff;
 }
 .why-choose-us .medico-legal ul li {
   border-bottom: 1px dotted #CCC;
@@ -1379,8 +1386,12 @@ WHY CHOOSE US
   margin-bottom: 20px;
   padding-bottom: 5px;
 }
-.why-choose-us .medico-legal:hover p {
-  color: #1e1e1e;
+.why-choose-us .medico-legal:hover ul li {
+  color: #fff;
+  border-bottom: 1px dotted #fff
+}
+.why-choose-us .medico-legal:hover h4 {
+  color: #fff;
 }
 
 /*==============================================

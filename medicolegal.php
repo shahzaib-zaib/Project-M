@@ -32,19 +32,28 @@
             </div>
             <div class="col-md-4">
                 <div class="medico-legal">
-                    <h4>Psychology</h4>
+                    <h4>What Medico-Legal Services Can We Provide?</h4>
                     <ul>
                         <li>Undertake psychiatric assessments for a variety of issues</li>
                         <li>Undertake forensic psychiatric assessments (we are able to visit Prisons and Residential Centres)</li>
                         <li>Advise on an individual’s diagnosis</li>
                         <li>Provide treatment recommendations</li>
+                        <li>Advise on the appropriateness of medical treatment</li>
+                        <li>Provide second opinions</li>
+                        <li>Conduct psychiatric risk assessments</li>
                     </ul>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="medico-legal">
-                    <h4>ADHD</h4>
-                    <p>ADHD is often misdiagnosed in adults, and yet with the correct treatment, can be effectively treated.</p>
+                    <h4>Why Choose us?</h4>
+                    <ul>
+                        <li>Medico legal reports can be the most important piece of evidence for your case. Poor quality reports can result in:</li>
+                        <li>Undervaluation of damages</li>
+                        <li>Time wasted seeking clarification</li>
+                        <li>Weakening of overall case</li>
+                        <li>Choosing us ensures that these problems will not happen for you. I only use experienced person's who have successful track records of producing high quality medico legal reports</li>
+                    </ul>
                 </div>
             </div>
         </div>
