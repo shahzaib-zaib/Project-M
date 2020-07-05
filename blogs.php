@@ -21,14 +21,14 @@
                             <div class="blog-post">
                                 <div class="blog-thumb">
                                     <img src="images/blog1.jpg" alt="">
-                                    <span>Feature, Branding</span>
+                                    <span>Insights and News</span>
                                 </div>
-                                <h4>Promotes former official</h4>
+                                <h4>How to explain autism to your family and friends</h4>
                                 <ul>
                                     <li><a href="#">Admin</a></li>
-                                    <li><a href="#">Nov 09, 2019</a></li>
+                                    <li><a href="#">July 10, 2020</a></li>
                                 </ul>
-                                <p>Lorem ipsum dolor amet blog poutine thundercats, kombucha XOXO ethical hoodie lomo blue bottle unicorn. Retro iPhone before they sold out semiotics.</p>
+                                <p> Awareness of autism is growing, with greater representation in our culture thanks to public figures like Chris Packham, Dan Ackroyd and Susan Boyle speaking about their own experiences</p>
                                 <a href="single-post.html" class="read-more">Read More</a>
                             </div>
                         </div>
@@ -36,7 +36,7 @@
                             <div class="blog-post">
                                 <div class="blog-thumb">
                                     <img src="images/blog2.jpg" alt="">
-                                    <span>Feature, Branding</span>
+                                    <span>Insights and News</span>
                                 </div>
                                 <h4>How To write Old Posts</h4>
                                 <ul>
