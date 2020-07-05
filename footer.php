@@ -6,7 +6,7 @@
                             <div class="footer-logo">
                                 <img src="images/logo-white.png" alt="">
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consec tetur adipisicing elit. Nulla animi, rep ellat, repellend possimus iure.<br><br>Tenetur enterance and correct bland itiis culpa unde explicabo.</p>
+                            <p>I believe a huge part of this is finding the right care, at the right time.<br><br>Honesty and integrity are key values to me, so if I don't think I can help you, I will tell you and try to help you find someone who can.</p>
                         </div>
                     </div>
                     <div class="col-md-3">
@@ -65,12 +65,12 @@
                                 <div class="col-md-4">
                                     <i class="fa fa-phone"></i>
                                     <h6>Phone</h6>
-                                    <span>0123 456 789</span> 
+                                    <span>-</span> 
                                 </div>
                                 <div class="col-md-4">
                                     <i class="fa fa-envelope"></i>
                                     <h6>Mail</h6>
-                                    <span>contact@rosaleda.com</span>
+                                    <span>info@drmaheenrizvi.com</span>
                                 </div>
                                 <div class="col-md-4">
                                     <i class="fa fa-map-marker"></i>
@@ -89,7 +89,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="copyright-text">
-                            <p> All Rights Reserved. <a href="http://buttoncreative.agency">ButtonCreative</a> 2020.</p>
+                            <p> All Rights Reserved. <a href="http://buttoncreative.agency">Maheen Rizvi</a> 2020.</p>
                         </div>
                     </div>
                     <div class="col-md-6">

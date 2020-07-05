@@ -126,12 +126,6 @@
                             </ul>
                         </div>
                     </li>
-                    <li>
-                        <a>How to get an advocate</a>
-                        <div class="content">
-                            <p></p>
-                        </div>
-                    </li>
                 </ul>
             </div>
         </div>
