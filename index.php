@@ -46,15 +46,15 @@
                                 <section class='tabs-content'>
                                 <article id='tabs-1'>
                                     <p>We can offer a unique perspective for adults with mental health difficulties which strives to place such presentations in the context of people’s lives and current living circumstances. This is broadly termed the systemic approach and in recent years has expanded to focus on metabolic and physical contributions. In addition, Dr Maheen works from various bases where there are several adult psychiatrists also practising with particular skills and specialist interests, and can arrange onward referral where this seems most appropriate.</p>
-                                    <a href="#">More about us</a>
+                                    <a href="adultservices.php">More about us</a>
                                 </article>
                                 <article id='tabs-2'>
                                     <p>We are here to help you find the right care for your child or teenager – it’s a big decision and not easy to know who is the best person for your child to see. Dr Maheen personally selected for their compassionate nature and commitment to helping families just like yours, either face-to face or online.</p>
-                                    <a href="#">More about us</a>
+                                    <a href="childservices.php">More about us</a>
                                 </article>
                                 <article id='tabs-3'>
                                     <p>Dr Maheen and have wide experience of child-care, personal injury, private and public law cases and assessments. </p>
-                                    <a href="#">More about us</a>
+                                    <a href="medicolegal.php">More about us</a>
                                 </article>
                                 </section>
                             </div>
@@ -114,27 +114,22 @@
         <div class="row">
             <div class="col-md-8 offset-md-2">
                 <div class="home-section-heading">
-                    <span>La rosaleda HTML5 Templa</span>
-                    <h2>Rosaleda is a multipurpose template with <em>unique identity</em></h2>
+                    <span>Safety, Quality, Compliance</span>
+                    <h2>Quality assurance and patient safety at <em>the very heart of all we do</em></h2>
                 </div>
             </div>
             <div class="col-md-8 align-self-center">
                 <div class="left-image">
-                    <img src="http://placehold.it/670x280" alt="">
+                    <img src="images/Cover2.jpg" alt="">
                 </div>
             </div>
             <div class="col-md-4 align-self-center">
                 <ul>
-                    <li><span>01</span>Unique Identity</li>
-                    <li><span>02</span>Creative Layout</li>
-                    <li><span>03</span>Clean &amp; Minimal</li>
+                    <li><span>01</span>Data Protection</li>
+                    <li><span>02</span>Complaints</li>
+                    <li><span>03</span>Regulatory bodies</li>
                     <li><span>04</span>Professional Work</li>
                 </ul>
-            </div>
-            <div class="col-md-12">
-                <div class="center-button">
-                    <a href="#" class="button main-button">Buy  Now!</a>
-                </div>
             </div>
         </div>
     </div>
