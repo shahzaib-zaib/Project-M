@@ -101,7 +101,29 @@
                     <li>
                         <a>What if I find it difficult to understand my treatment or care options?</a>
                         <div class="content">
-                            <p></p>
+                            <p>If you find it difficult to understand your treatment or care needed or if you find it hard speak up, there are independent people who can act as a spokesperson for you. <br>
+                            They make sure you're heard and your wellbeing is protected: they are called advocates.</p>
+                            <br>
+                            <p>Advocacy in all its forms seeks to ensure that people, particularly those who are most vulnerable in society, are able to:</p>
+                            <ul>
+                                <li>Have their voice heard on issues that are important to them</li>
+                                <li>Defend and safeguard their rights</li>
+                                <li>Have their views and wishes genuinely considered when decisions are being made about their lives</li>
+                            </ul>
+                            <p>For example, they can help you:</p>
+                            <ul>
+                                <li>understand the care and treatment process</li>
+                                <li>talk about how you feel about your care</li>
+                                <li>make decisions</li>
+                                <li>challenge decisions about your care and treatment if you do not agree with them</li>
+                                <li>stand up for your rights</li>
+                            </ul>
+                            <p>They can write letters for you and attend meetings with you.</p>
+                            <p>Advocates will support you during:</p>
+                            <ul>
+                                <li>assessments</li>
+                                <li>care and treatment planning</li>
+                            </ul>
                         </div>
                     </li>
                     <li>
