@@ -22,24 +22,29 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="feature-item2">
-                    <h4>Psychiatry</h4>
-                    <p>If you are looking for a diagnosis, a second opinion or need to see a highly experienced, our Psychiatrists can help.</p>
-                    <span>1</span>
+                <div class="medico-legal">
+                    <h4>We cover the following areas:</h4>
+                    <ul>
+                        <li>Child, adolescent and family matters</li>
+                        <li>Mental Capacity Assessment</li>
+                    </ul>
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="feature-item2">
+                <div class="medico-legal">
                     <h4>Psychology</h4>
-                    <p>Offering evidence based treatments, such as CBT, psychologists will help you overcome you difficulties and teach you skills you will use in your future</p>
-                    <span>2</span>
+                    <ul>
+                        <li>Undertake psychiatric assessments for a variety of issues</li>
+                        <li>Undertake forensic psychiatric assessments (we are able to visit Prisons and Residential Centres)</li>
+                        <li>Advise on an individual’s diagnosis</li>
+                        <li>Provide treatment recommendations</li>
+                    </ul>
                 </div>
             </div>
             <div class="col-md-4">
-                <div class="feature-item2">
+                <div class="medico-legal">
                     <h4>ADHD</h4>
                     <p>ADHD is often misdiagnosed in adults, and yet with the correct treatment, can be effectively treated.</p>
-                    <span>3</span>
                 </div>
             </div>
         </div>

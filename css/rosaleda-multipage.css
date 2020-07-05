@@ -1293,7 +1293,17 @@ WHY CHOOSE US
   cursor: pointer;
   transition: all 0.3s;
 }
-
+.why-choose-us .medico-legal {
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  padding: 40px;
+  border-bottom-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-left: 5px solid #fdad54;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.3s;
+}
 .why-choose-us .feature-item h4 {
   font-size: 16px;
   text-transform: uppercase;
@@ -1303,6 +1313,14 @@ WHY CHOOSE US
   margin-bottom: 25px;
 }
 .why-choose-us .feature-item2 h4 {
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #1e1e1e;
+  letter-spacing: 0.5px;
+  margin-bottom: 25px;
+}
+.why-choose-us .medico-legal h4 {
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 600;
@@ -1338,6 +1356,9 @@ WHY CHOOSE US
 .why-choose-us .feature-item2:hover {
   background-color: #fdad54;
 }
+.why-choose-us .medico-legal:hover {
+  background-color: #fdad54;
+}
 
 .why-choose-us .feature-item:hover span {
   color: #fff;
@@ -1350,6 +1371,15 @@ WHY CHOOSE US
   color: #1e1e1e;
 }
 .why-choose-us .feature-item2:hover p {
+  color: #1e1e1e;
+}
+.why-choose-us .medico-legal ul li {
+  border-bottom: 1px dotted #CCC;
+  list-style: none;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+}
+.why-choose-us .medico-legal:hover p {
   color: #1e1e1e;
 }
 
