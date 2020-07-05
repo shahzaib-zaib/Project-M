@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="page-heading-content">
-                    <span><a href="index.html">Home</a>/<em>Blogs</em></span>
+                    <span><a href="index.php">Home</a>/<em>Blogs</em></span>
                     <h1>Blogs</h1>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                                     <li><a href="#">July 10, 2020</a></li>
                                 </ul>
                                 <p> Awareness of autism is growing, with greater representation in our culture thanks to public figures like Chris Packham, Dan Ackroyd and Susan Boyle speaking about their own experiences</p>
-                                <a href="single-post.html" class="read-more">Read More</a>
+                                <a href="how-to-explain-autism-to-your-family-and-friends.php" class="read-more">Read More</a>
                             </div>
                         </div>
                         <div class="col-md-6">
