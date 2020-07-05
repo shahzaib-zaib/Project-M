@@ -105,7 +105,7 @@ figure {
 
 .section-heading h2 em {
   font-style: normal;
-  color: #fdad54;
+  color: #00b2ce;
 }
 
 .section-heading p {
@@ -127,10 +127,10 @@ figure {
   flex: 1 0 auto;
 }
 .preloader {
-  background: #fdad54; /* FF3.6-15 */
-  background: #fdad54; /* Chrome10-25,Safari5.1-6 */
-  background: #fdad54; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: #fdad54; /* IE6-9 */
+  background: #00b2ce; /* FF3.6-15 */
+  background: #00b2ce; /* Chrome10-25,Safari5.1-6 */
+  background: #00b2ce; /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: #00b2ce; /* IE6-9 */
   height: 100%;
   left: 0;
   position: fixed;
@@ -310,7 +310,7 @@ SOCIAL ICONS CSS
 }
 .social-icons li a:hover {
   color:#1e1e1e;
-  background-color: #fdad54;
+  background-color: #00b2ce;
 }
 
 
@@ -335,7 +335,7 @@ WELCOME BLOCK CSS
 }
 .welcome-box p em {
   font-style: normal;
-  background: #fdad54;
+  background: #00b2ce;
   padding: 0px 5px;
 }
 .welcome-title span {
@@ -413,7 +413,7 @@ ABOUT US
   transform: all 0.3s;
 }
 #tabs ul .ui-tabs-active a {
-  color: #fdad54;
+  color: #00b2ce;
 }
 #tabs ul .ui-tabs-active span {
   color: #1e1e1e;
@@ -441,7 +441,7 @@ ABOUT US
 }
 .tabs-content a:hover {
   letter-spacing: 2px;
-  color: #fdad54;
+  color: #00b2ce;
 }
 
 
@@ -481,7 +481,7 @@ SELECTIVE WORK
 }
 .selective-projects-section .section-heading .left-button a:hover {
   letter-spacing: 1.5px;
-  color: #fdad54;
+  color: #00b2ce;
 }
 .selective-projects-list .item {
   position: relative;
@@ -513,7 +513,7 @@ SELECTIVE WORK
   content: '\f061';
   font-family: 'FontAwesome';
   font-size: 24px;
-  color: #fdad54;
+  color: #00b2ce;
   background-color: #fff;
   display: inline-block;
   width: 60px;
@@ -524,7 +524,7 @@ SELECTIVE WORK
 }
 
 .owl-carousel .owl-nav .owl-next:hover::before {
-  color: #fdad54!important;
+  color: #00b2ce!important;
 }
 
 .owl-carousel .owl-nav .owl-prev {
@@ -541,7 +541,7 @@ SELECTIVE WORK
   content: '\f060';
   font-family: 'FontAwesome';
   font-size: 24px;
-  color: #fdad54;
+  color: #00b2ce;
   background-color: #fff;
   display: inline-block;
   width: 60px;
@@ -554,7 +554,7 @@ SELECTIVE WORK
 .owl-carousel .owl-nav .owl-prev:hover::before,
 .owl-carousel .owl-nav .owl-next:hover::before {
   color: #fff!important;
-  background-color: #fdad54;
+  background-color: #00b2ce;
 }
 
 .owl-carousel .owl-nav button {
@@ -638,7 +638,7 @@ OUR TEAM
   font-size: 16px;
   font-weight: 600;
   letter-spacing: 0.5px;
-  color: #fdad54;
+  color: #00b2ce;
   text-transform: uppercase;
   display: inline-block;
 }
@@ -668,7 +668,7 @@ OUR TEAM
 
 .team-member .hover-effect ul li a:hover {
   color: #fff;
-  background-color: #fdad54;
+  background-color: #00b2ce;
 }
 
 .team-member .hover-effect .hover-content .go-single {
@@ -685,7 +685,7 @@ OUR TEAM
 }
 
 .team-member .hover-effect .hover-content .go-single a:hover {
-  color: #fdad54;
+  color: #00b2ce;
   letter-spacing: 1px;
 }
 
@@ -811,7 +811,7 @@ OUR PROJECTS
   text-align: center;
   line-height: 40px;
   border-radius: 50%;
-  color: #fdad54;
+  color: #00b2ce;
   margin: 20px auto 0px auto;
   transition: all 0.5s;
 }
@@ -866,7 +866,7 @@ TESTIMONIALS
   letter-spacing: 0.5px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #fdad54;
+  color: #00b2ce;
 }
 
 
@@ -919,8 +919,8 @@ OUR BLOG
 }
 
 .blog-section .blog-item:hover {
-  background-color: #fdad54;
-  border-color: #fdad54;
+  background-color: #00b2ce;
+  border-color: #00b2ce;
 }
 
 .blog-section .blog-item:hover p {
@@ -983,7 +983,7 @@ CONTACT BLOCK CSS
 .form-control:focus {
   box-shadow:none;
   outline:none;
-  border-bottom: 1px solid #fdad54;
+  border-bottom: 1px solid #00b2ce;
   background-color: transparent;
 }
 
@@ -1081,7 +1081,7 @@ textarea.form-control {
 
 .contact-section .copyright-text a {
   text-decoration: none;
-  color: #fdad54;
+  color: #00b2ce;
   font-weight: 500;
 }
 
@@ -1143,7 +1143,7 @@ RESPONSIVE
   }
   .navbar-nav li.active a {
     font-weight: 700;
-    color: #fdad54;
+    color: #00b2ce;
   }
   .section-heading span {
     margin-bottom: 20px;
