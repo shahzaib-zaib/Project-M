@@ -20,7 +20,7 @@
                         <div class="col-md-12">
                             <div class="blog-post">
                                 <div class="blog-thumb">
-                                    <img src="images/blog3.jpg" alt="">
+                                    <img src="images/blog4.jpg" alt="">
                                     <span>Child Refuses</span>
                                 </div>
                                 <h4>What to do when your child refuses to go to school</h4>
@@ -32,7 +32,6 @@
                                 <p>When children completely refuse to go to school this can be extremely distressing for all parties.  It is often accompanied by melt-downs, physical complaints such as stomach aches, headaches, vomiting, rapid heartbeat, dizziness, pleading or begging to stay at home and even young people threatening to harm themselves if they are made to go to school.</p>
                                 <p>The behaviours associated with school refusal are extremely stressful for the young people, parents and siblings, and are of concern for the school and teachers.  For the young person, it has a significant negative effect on their academic and social development, and can lead to them completely dropping out of school, possibly causing significant consequences for future employment.</p>
                                 <p>Paige Fujiu-Baird, Clinical Psychologist and Psychotherapist, will be speaking about meeting the challenges of school refusal at the Virtual SEND Conference to empower parents with support and guidance when seeking help for their children.  Here, she outlines her approach to supporting children to engage with their education and return to school.</p>
-                                <br>
                                 <h5>What is school refusal?</h5>
                                 <p>School refusal is child-motivated refusal to attend school or difficulties in remaining in school the entire day.  School refusal is a condition characterised by reluctance or refusal to go to school by a child who:</p>
                                 <dl>
@@ -74,6 +73,27 @@
                                     <li>Let the child have something of yours to keep in their pocket i.e. a symbol or picture.</li>
                                     <li>Give the child as much control as possible through providing them the illusion of control (“Do you want to wear your green sweater or red shirt when you go to school today?”)</li>
                                     <li>Prolonged goodbyes don’t help the situation. A firm, caring, and quick separation is best for all concerned.</li>
+                                </dl>
+
+                                <h5>What practical strategies can teachers and teaching assistants use?</h5>
+                                <p>Staff in school are in a unique position to create an environment for the child at school that will substantially increase the likelihood that the child will return and/or continue to attend school.  School staff, SENCOs, teachers and teaching assistants can learn about school refusal and understand how to support the child and the plan to return to school.</p>
+                                <dl>
+                                    <li>Connect the child with a teacher who understands the situation and matches the personality and learning style of the child. A good fit between a child who struggles with attendance and a teacher can be a significant factor in determining whether or not an intervention plan succeeds.</li>
+                                    <li>Be particularly concerned about the child’s first interactions with school staff. If the first adult that a child will encounter at school is their favourite teacher, that connection may allow the child to overcome their resistance to getting to school.</li>
+                                    <li>If possible, arrange for the child to be in a class with as many of their friends as possible. While the child may have great anxiety about attending school, being in the presence of their friends may help ease that anxiety.</li>
+                                    <li>Provide as much insulation as possible from children the child fears or insensitive, tactless children.</li>
+                                    <li>Customise the educational approach and curriculum to meet the child’s needs.</li>
+                                    <li>Help the child identify “safe people” and “safe places” in the school or classroom that they can seek out when they are overwhelmed.</li>
+                                    <li>Provide the student with easy access to trained staff they can talk to.</li>
+                                    <li>Have an arrival ritual where the child is met by a warm and supportive person.</li>
+                                    <li>Do not punish for late arrival at school, but rather reinforce the fact that they got to school, and the courage they are displaying by coming.</li>
+                                    <li>Encourage the student and parents to increase the amount of time that they are separated at home.</li>
+                                    <li>Provide for testing and other high anxiety activities to be done in a separate, calm location.</li>
+                                    <li>Carefully match the student with other students for group activities or projects.</li>
+                                    <li>Provide social skills training in a small group for children with similar struggles.</li>
+                                    <li>Provide alternatives to reduce exposure to anxiety provoking situations, i.e. recording a presentation rather than presenting in front of the class.</li>
+                                    <li>Coach the child on coping strategies for anxiety provoking situations.</li>
+                                    <li>Focus on relapse prevention strategies once the child returns to school, particularly in transitioning from one school year to the next.</li>
                                 </dl>
 
                             </div>

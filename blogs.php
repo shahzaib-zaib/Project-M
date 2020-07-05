@@ -44,7 +44,7 @@
                                     <li><a href="#">Mar 15, 2020</a></li>
                                 </ul>
                                 <p>When children completely refuse to go to school this can be extremely distressing for all parties.  It is often accompanied by melt-downs, physical complaints such as stomach aches, headaches, vomiting, rapid heartbeat, dizziness, pleading or begging to stay at home and even young people threatening to harm themselves if they are made to go to school.</p>
-                                <a href="single-post.html" class="read-more">Read More</a>
+                                <a href="child-refuses.php" class="read-more">Read More</a>
                             </div>
                         </div>
                         <div class="col-md-12">
