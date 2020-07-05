@@ -29,7 +29,7 @@
                                     <li><a href="#">July 10, 2020</a></li>
                                 </ul>
                                 <p> Awareness of autism is growing, with greater representation in our culture thanks to public figures like Chris Packham, Dan Ackroyd and Susan Boyle speaking about their own experiences</p>
-                                <a href="how-to-explain-autism-to-your-family-and-friends.php" class="read-more">Read More</a>
+                                <a href="Family-and-Friend.php" class="read-more">Read More</a>
                             </div>
                         </div>
                         <div class="col-md-6">
