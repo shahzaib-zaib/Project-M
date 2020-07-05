@@ -13,17 +13,29 @@
                         <div class="footer-item useful-links">
                             <h4>Useful Links</h4>
                             <ul>
-                                <li><a href="#">Homepage</a></li>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Services</a></li>
-                                <li><a href="#">Clients</a></li>
-                                <li><a href="#">Contact</a></li>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="about.php">About</a></li>
+                                <li><a href="consultation.php">Consultation</a></li>
+                                <li><a href="contact.php">Contact</a></li>
+                                <li><a href="faqs.php">FAQs</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="footer-item useful-links">
+                            <h4>Services</h4>
+                            <ul>
+                                <li><a href="#">Child Services</a></li>
+                                <li><a href="#">Family Services</a></li>
+                                <li><a href="#">Adult Services</a></li>
+                                <li><a href="#">Corporate Services</a></li>
+                                <li><a href="#">Medico Legal</a></li>
                             </ul>
                         </div>
                     </div>
                     <div class="col-md-3">
                         <div class="footer-item blog-entries">
-                            <h4>Recent Posts</h4>
+                        <h4>Recent Posts</h4>
                             <ul>
                                 <li>
                                     <a href="single-post.html">
@@ -39,23 +51,6 @@
                                         <span><i class="fa fa-calendar"></i>Nov 02, 2019</span>
                                     </a>
                                 </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <div class="col-md-3">
-                        <div class="footer-item latest-projects">
-                            <h4>Lastest Projects</h4>
-                            <ul>
-                                <li><a href="single-project.html"><img src="http://placehold.it/80x80" alt=""></a></li>
-                                <li><a href="single-project.html"><img src="http://placehold.it/80x80" alt=""></a></li>
-                                <li><a href="single-project.html"><img src="http://placehold.it/80x80" alt=""></a></li>
-                                <li><a href="single-project.html"><img src="http://placehold.it/80x80" alt=""></a></li>
-                                <li><a href="single-project.html"><img src="http://placehold.it/80x80" alt=""></a></li>
-                                <li><a href="single-project.html"><img src="http://placehold.it/80x80" alt=""></a></li>
-                                <li><a href="single-project.html"><img src="http://placehold.it/80x80" alt=""></a></li>
-                                <li><a href="single-project.html"><img src="http://placehold.it/80x80" alt=""></a></li>
-                                <li><a href="single-project.html"><img src="http://placehold.it/80x80" alt=""></a></li>
-                                <li><a href="single-project.html"><img src="http://placehold.it/80x80" alt=""></a></li>
                             </ul>
                         </div>
                     </div>
