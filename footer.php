@@ -18,7 +18,7 @@
                         <li><a href="consultation.php">Consultation</a></li>
                         <li><a href="contact.php">Contact</a></li>
                         <li><a href="faqs.php">FAQs</a></li>
-                        <li><a href="faqs.php">Blogs</a></li>
+                        <li><a href="blogs.php">Blogs</a></li>
                     </ul>
                 </div>
             </div>

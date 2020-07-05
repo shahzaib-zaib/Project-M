@@ -38,12 +38,12 @@
                                     <img src="images/blog2.jpg" alt="">
                                     <span>Insights and News</span>
                                 </div>
-                                <h4>How To write Old Posts</h4>
+                                <h4>What to do when your child refuses to go to school</h4>
                                 <ul>
                                     <li><a href="#">Admin</a></li>
-                                    <li><a href="#">Nov 07, 2019</a></li>
+                                    <li><a href="#">Mar 15, 2020</a></li>
                                 </ul>
-                                <p>Lorem ipsum dolor amet blog poutine thundercats, kombucha XOXO ethical hoodie lomo blue bottle unicorn. Retro iPhone before they sold out semiotics.</p>
+                                <p>When children completely refuse to go to school this can be extremely distressing for all parties.  It is often accompanied by melt-downs, physical complaints such as stomach aches, headaches, vomiting, rapid heartbeat, dizziness, pleading or begging to stay at home and even young people threatening to harm themselves if they are made to go to school.</p>
                                 <a href="single-post.html" class="read-more">Read More</a>
                             </div>
                         </div>
