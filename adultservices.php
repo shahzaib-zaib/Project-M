@@ -16,29 +16,29 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="section-heading">
-                    <h3>Private mental health for Children and Adolescents</h3>
-                    <blockquote><i class="fa fa-quote-left"></i>We are here to help you find the right care for your child or teenager – it’s a big decision and not easy to know who is the best person for your child to see.<br><br>Your child will be seen by one of our senior, experienced clinicians, personally selected for their compassionate nature and commitment to helping families just like yours, either face-to face or online.<i class="fa fa-quote-right"></i></blockquote>
+                    <h3>Private mental health you can trust</h3>
+                    <blockquote><i class="fa fa-quote-left"></i>We can offer a unique perspective for adults with mental health difficulties which strives to place such presentations in the context of people’s lives and current living circumstances. This is broadly termed the systemic approach and in recent years has expanded to focus on metabolic and physical contributions.<br><br>In addition, Dr Maheen works from various bases where there are several adult psychiatrists also practising with particular skills and specialist interests, and can arrange onward referral where this seems most appropriate.<i class="fa fa-quote-right"></i></blockquote>
                     
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="feature-item2">
-                    <h4>Child Psychiatry</h4>
-                    <p>If you are looking for a diagnosis and a thorough review of the issues your child is experiencing, a child psychiatrist will be the best option for your family</p>
+                    <h4>Psychiatry</h4>
+                    <p>If you are looking for a diagnosis, a second opinion or need to see a highly experienced, our Psychiatrists can help.</p>
                     <span>1</span>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="feature-item2">
-                    <h4>Child Psychology</h4>
-                    <p>Offering evidence based treatments, such as CBT, psychologists work with children and families to help overcome challenges and learn skills that last a lifetime</p>
+                    <h4>Psychology</h4>
+                    <p>Offering evidence based treatments, such as CBT, psychologists will help you overcome you difficulties and teach you skills you will use in your future</p>
                     <span>2</span>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="feature-item2">
                     <h4>ADHD</h4>
-                    <p>Finding the right treatment option for a child with ADHD can be life changing – suddenly school, social and home life becomes much easier and a child is able to reach their full potential.</p>
+                    <p>ADHD is often misdiagnosed in adults, and yet with the correct treatment, can be effectively treated.</p>
                     <span>3</span>
                 </div>
             </div>
@@ -47,7 +47,7 @@
             <div class="col-md-4">
                 <div class="feature-item2">
                     <h4>Depression</h4>
-                    <p>It is truly heartbreaking to watch a child or teenager suffer with low mood, tearfulness and a loss of interest in all their previous hobbies. With the right diagnosis and support, things can and do get better.</p>
+                    <p>One of the common mental health issues, depression can be devastating to those affected by it. Treatment is effective and available.</p>
                     <span>4</span>
                 </div>
             </div>

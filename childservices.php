@@ -17,7 +17,7 @@
             <div class="col-md-12">
                 <div class="section-heading">
                     <h3>Private mental health for Children and Adolescents</h3>
-                    <blockquote><i class="fa fa-quote-left"></i>We are here to help you find the right care for your child or teenager – it’s a big decision and not easy to know who is the best person for your child to see.<br><br>Your child will be seen by one of our senior, experienced clinicians, personally selected for their compassionate nature and commitment to helping families just like yours, either face-to face or online.<i class="fa fa-quote-right"></i></blockquote>
+                    <blockquote><i class="fa fa-quote-left"></i>I am here to help you find the right care for your child or teenager – it’s a big decision and not easy to know who is the best person for your child to see.<br><br>Your child will be seen by one of our senior, experienced clinicians, personally selected for their compassionate nature and commitment to helping families just like yours, either face-to face or online.<i class="fa fa-quote-right"></i></blockquote>
                     
                 </div>
             </div>
