@@ -36,18 +36,18 @@
             </div>
             <div class="col-md-3">
                 <div class="footer-item blog-entries">
-                <h4>Recent Posts</h4>
+                <h4>Recent Blogs</h4>
                     <ul>
                         <li>
                             <a href="single-post.html">
-                                <img src="http://placehold.it/80x80" alt="">
+                                <img src="./images/blog-small-1.jpg" alt="">
                                 <p>How to explain autism to your family and friends</p>
                                 <span><i class="fa fa-calendar"></i>July 10, 2020</span>
                             </a>
                         </li>
                         <li>
                             <a href="single-post.html">
-                                <img src="http://placehold.it/80x80" alt="">
+                                <img src="images/blog-small-2.jpg" alt="">
                                 <p>What to do when your child refuses to go to school</p>
                                 <span><i class="fa fa-calendar"></i>Mar 15, 2020</span>
                             </a>
