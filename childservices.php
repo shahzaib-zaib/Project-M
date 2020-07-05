@@ -11,48 +11,27 @@
         </div>
     </div>
 </div>
-<div class="blog-content">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="blog-posts">
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="blog-post">
-                                <h4>What to expect</h4>
-                                
-                                <p>I look forward to assisting you to better health and to a productive working partnership. Many people find the prospect of a consultation with a psychiatrist rather daunting and I hope the following may help alleviate the process. Please take the time to read this information to help you make better use of the services I offer. Hopefully it will give you the answers to many frequently asked questions about my practice.</p>
-                                <br>
-                                <blockquote><i class="fa fa-quote-left"></i>As a psychiatrist, I am a medically qualified doctor and I specialise in the assessment and treatment of conditions that affect mental health.<i class="fa fa-quote-right"></i></blockquote>
-                                
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
 <div class="why-choose-us">
     <div class="container">
         <div class="row">
             <div class="col-md-8 offset-md-2">
                 <div class="section-heading">
-                    <span>My Story</span>
-                    <h2>I believe that delivering mental health care is a vocation, not a business.</h2>
+                    <h3>Private mental health for Children and Adolescents</h3>
+                    <blockquote><i class="fa fa-quote-left"></i>We are here to help you find the right care for your child or teenager – it’s a big decision and not easy to know who is the best person for your child to see.<br><br>Your child will be seen by one of our senior, experienced clinicians, personally selected for their compassionate nature and commitment to helping families just like yours, either face-to face or online.<i class="fa fa-quote-right"></i></blockquote>
+                    
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="feature-item">
-                    <h4>MISSION</h4>
-                    <p>My mission is to help people and families who are experiencing mental and emotional difficulties to get better.</p>
+                    <h4>Child Psychiatry</h4>
+                    <p>If you are looking for a diagnosis and a thorough review of the issues your child is experiencing, a child psychiatrist will be the best option for your family</p>
                     <span>1</span>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="feature-item">
-                    <h4>ADVANTAGES</h4>
-                    <p></p>
+                    <h4>Child Psychology</h4>
+                    <p>Offering evidence based treatments, such as CBT, psychologists work with children and families to help overcome challenges and learn skills that last a lifetime</p>
                     <span>2</span>
                 </div>
             </div>
