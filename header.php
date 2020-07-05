@@ -45,11 +45,11 @@
                             <li class="submenu">
                                 <a href="services.php">Services</a>
                                 <ul>
-                                    <li><a href="services.php">Child Services</a></li>
-                                    <li><a href="team.php">Family Services</a></li>
-                                    <li><a href="single-project.php">Adult Services</a></li>
-                                    <li><a href="single-post.php">Corporate Services</a></li>
-                                    <li><a href="single-member.php">Medico Legal</a></li>
+                                    <li><a href="childservices.php">Child Services</a></li>
+                                    <li><a href="familyservices.php">Family Services</a></li>
+                                    <li><a href="adultservices.php">Adult Services</a></li>
+                                    <li><a href="corporateservices.php">Corporate Services</a></li>
+                                    <li><a href="medicolegal.php">Medico Legal</a></li>
                                 </ul>
                             </li>
                             <li><a href="consultation.php">Consultation</a></li>
