@@ -2682,6 +2682,17 @@ BLOG
   color: #1e1e1e;
 }
 
+.blog-content .blog-posts .blog-post h5 {
+  margin-top: 50px;
+  margin-bottom: 10px;
+  line-height: 32px;
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+  color: #1e1e1e;
+}
+
 .blog-content .blog-posts .blog-post ul li {
   display: inline-block;
   margin-right: 10px;

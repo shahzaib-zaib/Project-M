@@ -20,16 +20,26 @@
                         <div class="col-md-12">
                             <div class="blog-post">
                                 <div class="blog-thumb">
-                                    <img src="http://placehold.it/770x480" alt="">
-                                    <span>Feature, Branding</span>
+                                    <img src="images/blog3.jpg" alt="">
+                                    <span>Family and Friend</span>
                                 </div>
-                                <h4>Lorem ipsum dolor amet</h4>
+                                <h4>How to explain autism to your family and friends</h4>
                                 <ul>
                                     <li><a href="#">Admin</a></li>
-                                    <li><a href="#">Nov 03, 2019</a></li>
+                                    <li><a href="#">July 10, 2020</a></li>
                                     <li><a href="#">10 comments</a></li>
                                 </ul>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae accusamus consectetur obcaecati distinctio nobis voluptates. Possimus voluptates enim commodi, tempore, nulla magnam, porro ullam esse assumenda, beatae excepturi vel? Aliquid eum, earum modi repudiandae magnam non natus! Eos dolorem illo recusandae rem neque aut et eveniet numquam, odio ad sed, cumque, nam a sit vitae.</p><br><blockquote><i class="fa fa-quote-left"></i>A business has to be involving, it has to be fun, and it ahas to exercise your creative instincts. Start where you are. Use what you have. Do what you can.<i class="fa fa-quote-right"></i></blockquote><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptates molestiae ex, voluptatibus eum, id amet assumenda corrupti sapiente tempore voluptatem, praesentium quisquam! Et, dolor, laudantium possimus eveniet atque consequatur sit deserunt labore. Provident quasi placeat eius aspernatur!</p>
+                                <p>Awareness of autism is growing, with greater representation in our culture thanks to public figures like Chris Packham, Dan Ackroyd and Susan Boyle speaking about their own experiences. But there is still a long way to go. For many, the mental picture of an autistic person hasn’t progressed since Dustin Hoffman’s memorable performance in the movie Rain Man. So when confronted with the knowledge that a child they know and love has been diagnosed with autistic spectrum disorder (ASD), responses can vary from panic to total denial. What can you do as the parent of an autistic child to break down these barriers and help those around your child support and accept their diagnosis?</p>
+                                <br>
+                                <h5>Spectrum</h5>
+                                <img src="images/Autism-is-a-spectrum-and-explaining-the-strengths-and-challenges-your-child-faces-can-help-your-family.png" alt="">
+                                <p>The concept of an autistic spectrum is becoming much more widely known, but not necessarily always understood. Unhelpfully, the assertion that a person is ‘on the spectrum’ is often used as shorthand for describing any sort of awkward or unusual character traits. The effect may be to create a further negative impression of what it means to be autistic. Sometimes it can help those around you and your child if you start by explaining what the spectrum actually is and where your child fits into it.</p>
+                                <p>This is a big subject and you might not have much time to get your points across, so start with the basics. Let people know about the behaviours associated with autism and explain that they are divided into two groups:</p>
+                                <dl>
+                                    <li>Children with different social skills. People close to your child may have already noticed that they don’t respond to greetings or behave in the expected way in social situations. This can manifest itself through speech or with nonverbal communication, most commonly avoiding eye contact or facial expressions.</li>
+                                    <li>Restricted or repetitive behaviours and interests. Autistic children often have intense fascination with a single thing (and it could be almost anything) or may want to stick to set routines and rituals around food, for example, or taking the same route to school. Explain that this is not to be avoided or corrected - not only is it a normal part of their ASD, it’s a way for them to regulate their world and feel more secure.</li>
+                                </dl>
+                                <p></p>
                             </div>
                         </div>
                     </div>

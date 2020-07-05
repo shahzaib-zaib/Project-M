@@ -21,7 +21,7 @@
                             <div class="blog-post">
                                 <div class="blog-thumb">
                                     <img src="images/blog1.jpg" alt="">
-                                    <span>Insights and News</span>
+                                    <span>Family and Friend</span>
                                 </div>
                                 <h4>How to explain autism to your family and friends</h4>
                                 <ul>
