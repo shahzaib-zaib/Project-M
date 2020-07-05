@@ -54,14 +54,14 @@
             <div class="col-md-4">
                 <div class="feature-item2">
                     <h4>Anxiety</h4>
-                    <p>A child who is experiencing anxiety will often be hugely distressed and find the world to be a very scary place. With the right treatment, these feelings can be significantly improved.</p>
+                    <p>Anxiety disorders can be debilitating, affecting how you live your life and the lives of those around you.</p>
                     <span>5</span>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="feature-item2">
                     <h4>Autism</h4>
-                    <p>Families often speak of the tremendous relief they feel when a child receives a diagnosis of autism – finally they have a way of understanding why their child seems different to others.</p>
+                    <p>A diagnosis of autism in adulthood can be truly life changing, allowing the person to understand why they experience the work differently to others.</p>
                     <span>6</span>
                 </div>
             </div>
@@ -69,14 +69,14 @@
         <div class="row mt-5">
             <div class="col-md-4">
                     <div class="feature-item2">
-                        <h4>Behavioural Issues</h4>
-                        <p>Getting help for your child’s challenging or distressing behaviours is essential when it gets to a stage where daily life is being impacted upon – our team can help advise on what support would be best.</p>
+                        <h4>Bipolar Disorder</h4>
+                        <p>One of the most devastating mental health conditions, bipolar disorders are often misdiagnosed as the symptoms are so similar to other conditions. An accurate diagnosis is the first step to finding the right treatment plan.</p>
                         <span>7</span>
                     </div>
                 </div><div class="col-md-4">
                     <div class="feature-item2">
-                        <h4>Self Harm</h4>
-                        <p>Deeply distressing, but sadly very common, we have some of the UK’s leading experts in self harm who can help your child or teenager to get better.</p>
+                        <h4>Eating disorders</h4>
+                        <p>Anorexia, bulimia, binge eating and orthorexia are all eating disorders that can severely impact on a person’s physical and mental health and left untreated can become life threatening.</p>
                         <span>8</span>
                     </div>
                 </div><div class="col-md-4">
