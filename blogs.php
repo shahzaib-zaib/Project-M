@@ -20,7 +20,7 @@
                         <div class="col-md-6">
                             <div class="blog-post">
                                 <div class="blog-thumb">
-                                    <img src="http://placehold.it/370x250" alt="">
+                                    <img src="images/blog1.jpg" alt="">
                                     <span>Feature, Branding</span>
                                 </div>
                                 <h4>Promotes former official</h4>
@@ -35,7 +35,7 @@
                         <div class="col-md-6">
                             <div class="blog-post">
                                 <div class="blog-thumb">
-                                    <img src="http://placehold.it/370x250" alt="">
+                                    <img src="images/blog2.jpg" alt="">
                                     <span>Feature, Branding</span>
                                 </div>
                                 <h4>How To write Old Posts</h4>
@@ -50,12 +50,7 @@
                         <div class="col-md-12">
                             <ul class="blog-pagination">
                                 <li><a href="#"><i class="fa fa-angle-double-left"></i></a></li>
-                                <li><a href="#">1</a></li>
-                                <li class="active"><a href="#">2</a></li>
-                                <li><a href="#">3</a></li>
-                                <li><a href="#">4</a></li>
-                                <li><a href="#">...</a></li>
-                                <li><a href="#">40</a></li>
+                                <li class="active"><a href="#">1</a></li>
                                 <li><a href="#"><i class="fa fa-angle-double-right"></i></a></li>
                             </ul>
                         </div>
