@@ -1,3 +1,36 @@
+<?php
+
+    define( 'ROOT', dirname(__FILE__) );
+
+    $page_name = isset( $_GET['page'] ) ? $_GET['page'] : 'home';
+    $page = ROOT . '/pages/' . $page_name . '.php';
+
+    if( $page_name == 'home-2' ) {
+        $header = 'header-2.php';
+        $footer = 'footer-2.php';
+    } elseif ( $page_name == 'home' ) {
+        $header = 'header.php';
+        $footer = 'footer.php';
+    } else {
+        $header = ( isset($_GET['header'] ) && $_GET['header'] == 'dark' ) ? 'header-2.php' : 'header.php' ;
+        $footer = ( isset( $_GET['footer'] ) && $_GET['footer'] == '1' ) ? 'footer.php' : 'footer-2.php' ;
+    }
+
+    $header = ROOT . '/parts/general/' . $header;
+    $footer = ROOT . '/parts/general/' . $footer;
+
+    $pages = array(
+        'about'             => 'About Us',
+        'adultservices'     => 'Adult Services',
+        'blog'              => 'Blog',
+        'child-refuses'     => 'Child Refuses',
+        'children'          => 'Children',
+        'childservices'     => 'child Services',
+        'consultation'      => 'consultation',
+        'contact'           => 'Contact',
+        'home'              => 'Home',
+    );
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
