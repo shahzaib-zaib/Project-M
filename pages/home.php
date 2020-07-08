@@ -3,13 +3,13 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="decoration">
-                    <img src="images/banner-decoration.png" alt="">
+                    <img src="assets/images/banner-decoration.png" alt="">
                 </div>
                 <div class="welcome-box">
                     <h1><span class="txt-type" data-wait="3000" data-words='["Private Mental Healthcare", "For Individuals", "Families & Organisations"]'></span></h1>
                     <p>Face-to-Face <em>and Online</em></p>
                     <div class="scroll-down next-section">
-                        <img src="images/mouse-scroll.png" alt="">
+                        <img src="assets/images/mouse-scroll.png" alt="">
                     </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                                     <div class="section-heading">
                                         <span>Specialising in Children and Families</span>
                                         <h2>Psychological <em>services </em> for all <em> ages </em> based in and near</h2>
-                                        <img src="images/square-decoration.png" alt="">
+                                        <img src="assets/images/square-decoration.png" alt="">
                                     </div>
                                 </div>
                             </div>
@@ -119,7 +119,7 @@
             </div>
             <div class="col-md-8 align-self-center">
                 <div class="left-image">
-                    <img src="images/Cover2.jpg" alt="">
+                    <img src="assets/images/Cover2.jpg" alt="">
                 </div>
             </div>
             <div class="col-md-4 align-self-center">
@@ -174,7 +174,7 @@
     <div class="container">
         <div class="row">
             <div class="decoration-square">
-                <img src="images/square-decoration.png" alt="">
+                <img src="assets/images/square-decoration.png" alt="">
             </div>
             <div class="col-md-6 align-self-center">
                 <div class="home-section-heading">

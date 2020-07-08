@@ -8,9 +8,6 @@
     if( $page_name == 'home' ) {
         $header = 'header.php';
         $footer = 'footer.php';
-    }else {
-        $header = ( isset($_GET['header'] ) && $_GET['header'] == 'dark' ) ? 'header.php' : 'header.php' ;
-        $footer = ( isset( $_GET['footer'] ) && $_GET['footer'] == '1' ) ? 'footer.php' : 'footer.php' ;
     }
 
     $header = ROOT . '/parts/' . $header;
@@ -39,7 +36,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Dr. Maheen Rizvi</title>
+    <title><?php echo $pages[$page_name];?> | Dr. Maheen Rizvi</title>
     <link rel="icon" type="image/png" href="images/site-logo.png">
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
@@ -56,6 +53,13 @@
 </head>
 <body>
 
+    <div class="preloader">
+        <div class="preloader-bounce">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+    </div>
     <div class="wrapper">
         
         <?php if($page_name == 'home'): ?>
@@ -72,10 +76,7 @@
             }
         ?>
         
-
     </div><!-- /.wrapper -->
-    
-    <div class="overlay"></div>
 
     <script src="assets/js/jquery.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
