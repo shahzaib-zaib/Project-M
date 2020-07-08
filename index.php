@@ -187,15 +187,15 @@
             <div class="col-md-6 align-self-center">
                 <ul class="accordion">
                     <li>
-                        <a>What a product key?</a>
+                        <a>What issues do you treat?</a>
                         <div class="content">
-                            <p>Lorem ipsum dolor amet succulents put a bird on it pabst fanny pack, kinfolk literally authentic microdosing cardigan cronut letterpress coloring book direct trade leggings.</p>
+                        <p>It's a very wide range, but the main theme is that I am here to help with anything that is troubling you in your mind; whether it's a slight worry that just needs a little help, through to more serious issues. One thing I won't do is tell you I can help if I can't, so feel free to call me and I can talk it through with you.</p>
                         </div>
                     </li>
                     <li>
-                        <a>Where do i find my product key?</a>
+                        <a>Are the sessions confidential?</a>
                         <div class="content">
-                            <p>Lorem ipsum dolor amet succulents put a bird on it pabst fanny pack, kinfolk literally authentic microdosing cardigan cronut letterpress coloring book direct trade leggings.</p>
+                        <p>All of the conversations and appointments that you have with me are confidential. The exception to this is if you pose a danger to yourself or others. At this point the relevant parties will be informed.</p>
                         </div>
                     </li>
                     <li>
