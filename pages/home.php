@@ -1,4 +1,3 @@
-<?php include 'header.php'; ?>
 <div class="main-banner">
     <div class="container">
         <div class="row">
@@ -221,4 +220,3 @@
         </div>
     </div>
 </div>
-<?php include 'footer.php'; ?>
