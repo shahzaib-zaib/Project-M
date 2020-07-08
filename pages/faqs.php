@@ -1,4 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
 <?php include 'header.php'; ?>
+
 <div class="page-heading">
     <div class="container">
         <div class="row">
@@ -48,7 +57,6 @@
                         </div>
                     </li>
                 </ul>
-
                 <h4>Appointment & Fees</h4>
                 <ul class="accordion">   
                     <li>
@@ -95,7 +103,6 @@
                         </div>
                     </li>
                 </ul>
-
                 <h4>Advocacy</h4>
                 <ul class="accordion">   
                     <li>
@@ -129,7 +136,12 @@
                 </ul>
             </div>
         </div>
-        
     </div>
 </div>
 <?php include 'footer.php'; ?>
+
+    <script src="js/form.js"></script>
+    <script src="js/custom.js"></script>
+
+</body>
+</html>
