@@ -28,7 +28,11 @@
         'childservices'     => 'child Services',
         'consultation'      => 'consultation',
         'contact'           => 'Contact',
+        'family-and-friend' => 'Family and Friend',
+        'familyservices'    => 'Family Services',
+        'faqs'              => 'FAQs',
         'home'              => 'Home',
+        'medicolegal'       => 'Medico Legal',
     );
 ?>
 <!DOCTYPE html>
