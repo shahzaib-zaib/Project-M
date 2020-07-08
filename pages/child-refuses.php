@@ -1,4 +1,3 @@
-<?php include 'header.php'; ?>
 <div class="page-heading">
     <div class="container">
         <div class="row">
@@ -104,5 +103,3 @@
         </div>
     </div>
 </div>
-
-<?php include 'footer.php'; ?>
