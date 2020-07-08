@@ -30,6 +30,8 @@
         'faqs'              => 'FAQs',
         'home'              => 'Home',
         'medico-legal'      => 'Medico Legal',
+        'index'             => 'index',
+
     );
 ?>
 <!DOCTYPE html>
