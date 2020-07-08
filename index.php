@@ -18,15 +18,14 @@
         'adultservices'     => 'Adult Services',
         'blog'              => 'Blog',
         'child-refuses'     => 'Child Refuses',
-        'children'          => 'Children',
-        'childservices'     => 'child Services',
+        'child-services'    => 'child Services',
         'consultation'      => 'consultation',
         'contact'           => 'Contact',
         'family-and-friend' => 'Family and Friend',
-        'familyservices'    => 'Family Services',
+        'family-services'   => 'Family Services',
         'faqs'              => 'FAQs',
         'home'              => 'Home',
-        'medicolegal'       => 'Medico Legal',
+        'medico-legal'      => 'Medico Legal',
     );
 ?>
 <!DOCTYPE html>
@@ -52,7 +51,6 @@
     <link rel="stylesheet" type="text/css" href="assets/css/rosaleda-onepage.css">
 </head>
 <body>
-
     <div class="preloader">
         <div class="preloader-bounce">
             <span></span>

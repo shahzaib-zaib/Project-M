@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="page-heading-content">
-                    <span><a href="index.php">Home</a>/<em>FAQ's</em></span>
+                    <span><a href="index.php?page=home">Home</a>/<em>FAQ's</em></span>
                     <h1>FAQ's</h1>
                 </div>
             </div>

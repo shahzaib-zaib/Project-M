@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="page-heading-content">
-                    <span><a href="index.html">Home</a>/<em>Medico Legal</em></span>
+                    <span><a href="index.php?page=home">Home</a>/<em>Medico Legal</em></span>
                     <h1>Medico Legal</h1>
                 </div>
             </div>
