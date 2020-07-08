@@ -8,6 +8,9 @@
     if( $page_name == 'home' ) {
         $header = 'header.php';
         $footer = 'footer.php';
+    } else {
+        $header = ( isset($_GET['header'] ) && $_GET['header'] == 'dark' ) ? 'header-2.php' : 'header.php' ;
+        $footer = ( isset( $_GET['footer'] ) && $_GET['footer'] == '1' ) ? 'footer-2.php' : 'footer.php' ;
     }
 
     $header = ROOT . '/parts/' . $header;
