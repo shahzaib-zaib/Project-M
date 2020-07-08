@@ -19,7 +19,7 @@
                         <div class="col-md-12">
                             <div class="blog-post">
                                 <div class="blog-thumb">
-                                    <img src="images/blog3.jpg" alt="">
+                                    <img src="assets/images/blog3.jpg" alt="">
                                     <span>Family and Friend</span>
                                 </div>
                                 <h4>How to explain autism to your family and friends</h4>

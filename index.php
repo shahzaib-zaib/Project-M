@@ -18,12 +18,13 @@
 
     $pages = array(
         'about'             => 'About Us',
-        'adultservices'     => 'Adult Services',
+        'adult-services'    => 'Adult Services',
         'blog'              => 'Blog',
         'child-refuses'     => 'Child Refuses',
         'child-services'    => 'child Services',
         'consultation'      => 'consultation',
         'contact'           => 'Contact',
+        'corporate-services'=> 'Corporate Services',
         'family-and-friend' => 'Family and Friend',
         'family-services'   => 'Family Services',
         'faqs'              => 'FAQs',
@@ -50,8 +51,8 @@
     <link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.css">
     <link rel="stylesheet" type="text/css" href="assets/css/animate.css">
     <link rel="stylesheet" type="text/css" href="assets/css/flaticon.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/rosaleda-multipage.css">
-    <link rel="stylesheet" type="text/css" href="assets/css/rosaleda-onepage.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style-multipage.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style-onepage.css">
 </head>
 <body>
     <div class="preloader">

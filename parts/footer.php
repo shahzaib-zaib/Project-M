@@ -13,12 +13,12 @@
                 <div class="footer-item useful-links">
                     <h4>Useful Links</h4>
                     <ul>
-                        <li><a href="pages/home.php">Home</a></li>
-                        <li><a href="pages/about.php">About</a></li>
-                        <li><a href="pages/consultation.php">Consultation</a></li>
-                        <li><a href="pages/contact.php">Contact</a></li>
-                        <li><a href="pages/faqs.php">FAQs</a></li>
-                        <li><a href="pages/blogs.php">Blogs</a></li>
+                        <li><a href="index.php?page=home">Home</a></li>
+                        <li><a href="index.php?page=about">About</a></li>
+                        <li><a href="index.php?page=consultation">Consultation</a></li>
+                        <li><a href="index.php?page=contact">Contact</a></li>
+                        <li><a href="index.php?page=faqs">FAQs</a></li>
+                        <li><a href="index.php?page=blogs">Blogs</a></li>
                     </ul>
                 </div>
             </div>
@@ -26,11 +26,11 @@
                 <div class="footer-item useful-links">
                     <h4>Services</h4>
                     <ul>
-                        <li><a href="pages/childservices.php">Child Services</a></li>
-                        <li><a href="pages/familyservices.php">Family Services</a></li>
-                        <li><a href="pages/adultservices.php">Adult Services</a></li>
-                        <li><a href="pages/corporateservices.php">Corporate Services</a></li>
-                        <li><a href="pages/medicolegal.php">Medico Legal</a></li>
+                        <li><a href="index.php?page=child-services">Child Services</a></li>
+                        <li><a href="index.php?page=family-services">Family Services</a></li>
+                        <li><a href="index.php?page=adult-services">Adult Services</a></li>
+                        <li><a href="index.php?page=corporate-services">Corporate Services</a></li>
+                        <li><a href="index.php?page=medico-legal">Medico Legal</a></li>
                     </ul>
                 </div>
             </div>
@@ -39,14 +39,14 @@
                 <h4>Recent Blogs</h4>
                     <ul>
                         <li>
-                            <a href="Family-and-Friend.php">
+                            <a href="index.php?page=family-and-friend">
                                 <img src="assets/images/blog-small-1.jpg" alt="">
                                 <p>How to explain autism to your family and friends</p>
                                 <span><i class="fa fa-calendar"></i>July 10, 2020</span>
                             </a>
                         </li>
                         <li>
-                            <a href="child-refuses.php">
+                            <a href="index.php?page=child-refuses">
                                 <img src="assets/images/blog-small-2.jpg" alt="">
                                 <p>What to do when your child refuses to go to school</p>
                                 <span><i class="fa fa-calendar"></i>Mar 15, 2020</span>
@@ -85,7 +85,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="copyright-text">
-                    <p> All Rights Reserved. <a href="index.php">Maheen Rizvi</a> 2020.</p>
+                    <p> All Rights Reserved. <a href="index.php?page=home">Maheen Rizvi</a> 2020.</p>
                 </div>
             </div>
             <div class="col-md-6">

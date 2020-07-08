@@ -19,7 +19,7 @@
                         <div class="col-md-12">
                             <div class="blog-post">
                                 <div class="blog-thumb">
-                                    <img src="images/blog4.jpg" alt="">
+                                    <img src="assets/images/blog4.jpg" alt="">
                                     <span>Child Refuses</span>
                                 </div>
                                 <h4>What to do when your child refuses to go to school</h4>

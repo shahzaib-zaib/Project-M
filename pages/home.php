@@ -45,15 +45,15 @@
                                 <section class='tabs-content'>
                                 <article id='tabs-1'>
                                     <p>We can offer a unique perspective for adults with mental health difficulties which strives to place such presentations in the context of people’s lives and current living circumstances. This is broadly termed the systemic approach and in recent years has expanded to focus on metabolic and physical contributions. In addition, Dr Maheen works from various bases where there are several adult psychiatrists also practising with particular skills and specialist interests, and can arrange onward referral where this seems most appropriate.</p>
-                                    <a href="adultservices.php">More about us</a>
+                                    <a href="index.php?page=adult-services">More about us</a>
                                 </article>
                                 <article id='tabs-2'>
                                     <p>We are here to help you find the right care for your child or teenager – it’s a big decision and not easy to know who is the best person for your child to see. Dr Maheen personally selected for their compassionate nature and commitment to helping families just like yours, either face-to face or online.</p>
-                                    <a href="childservices.php">More about us</a>
+                                    <a href="index.php?page=child-services">More about us</a>
                                 </article>
                                 <article id='tabs-3'>
                                     <p>Dr Maheen and have wide experience of child-care, personal injury, private and public law cases and assessments. </p>
-                                    <a href="medicolegal.php">More about us</a>
+                                    <a href="index.php?page=medico-legal">More about us</a>
                                 </article>
                                 </section>
                             </div>

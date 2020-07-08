@@ -915,7 +915,7 @@ GET TO KNOW WHAT WE DO
 }
 
 .get-to-know-what-we-do .service-item .hover-effect p {
-  color: #1e1e1e;
+  color: #fff;
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
