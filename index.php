@@ -40,7 +40,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <title><?php echo $pages[$page_name];?> | Dr. Maheen Rizvi</title>
-    <link rel="icon" type="image/png" href="images/site-logo.png">
+    <link rel="icon" type="image/png" href="assets/images/site-logo.png">
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 

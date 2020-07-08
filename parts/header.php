@@ -14,7 +14,7 @@
                         <li><a href="index.php?page=home" class="active">Home</a></li>
                         <li><a href="index.php?page=about">About</a></li>
                         <li class="submenu">
-                            <a href="index.php?page=services">Services</a>
+                            <a href="javascript:;">Services</a>
                             <ul>
                                 <li><a href="index.php?page=child-services">Child Services</a></li>
                                 <li><a href="index.php?page=family-services">Family Services</a></li>
