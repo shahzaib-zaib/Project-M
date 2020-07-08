@@ -187,6 +187,13 @@
             <div class="col-md-6 align-self-center">
                 <ul class="accordion">
                     <li>
+                        <a>
+                        <a>What are your opening hours?</a>
+                        <div class="content">
+                        <p>My phone is answered between the hours of 9 am to 6 pm Monday to Friday and 9:30 am to 3:30 pm on Saturdays, but you can leave a message outside of these hours and someone will call you back when I am open.</p>
+                        </div>
+                    </li>
+                    <li>
                         <a>What issues do you treat?</a>
                         <div class="content">
                         <p>It's a very wide range, but the main theme is that I am here to help with anything that is troubling you in your mind; whether it's a slight worry that just needs a little help, through to more serious issues. One thing I won't do is tell you I can help if I can't, so feel free to call me and I can talk it through with you.</p>
@@ -199,19 +206,13 @@
                         </div>
                     </li>
                     <li>
-                        <a>How long does it take to download?</a>
+                        <a>How long is each session?</a>
                         <div class="content">
-                            <p>Lorem ipsum dolor amet succulents put a bird on it pabst fanny pack, kinfolk literally authentic microdosing cardigan cronut letterpress coloring book direct trade leggings.</p>
+                        <p>Yes, you can pay by calling _______. I accept all major credit cards but do not accept cash or cheques.</p>
                         </div>
                     </li>
                     <li>
-                        <a>What steps to follow after download?</a>
-                        <div class="content">
-                            <p>Lorem ipsum dolor amet succulents put a bird on it pabst fanny pack, kinfolk literally authentic microdosing cardigan cronut letterpress coloring book direct trade leggings.</p>
-                        </div>
-                    </li>
-                    <li>
-                        <a>How do i get the best resolution?</a>
+                        <a>Can I pay by credit card?</a>
                         <div class="content">
                             <p>Lorem ipsum dolor amet succulents put a bird on it pabst fanny pack, kinfolk literally authentic microdosing cardigan cronut letterpress coloring book direct trade leggings.</p>
                         </div>

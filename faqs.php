@@ -67,7 +67,7 @@
                     <li>
                         <a>How long is each session?</a>
                         <div class="content">
-                            <p>he length of session depends on the situation. For an initial assessment with a Psychiatrist of Psychologist this could last 90 minutes.</p>
+                            <p>The length of session depends on the situation. For an initial assessment with a Psychiatrist of Psychologist this could last 90 minutes.</p>
                         </div>
                     </li>
                     <li>
