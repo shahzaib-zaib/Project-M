@@ -35,7 +35,7 @@
                 </div>
             </div>
             <div class="col-md-8">
-                <form id="ajax-contact" method="post" action="#">
+                <form method="post" action="index.php?page=save-data">
                     <div class="input-field">
                         <input type="text" class="form-control" name="name" id="name" required placeholder="Name">
                     </div>
@@ -45,7 +45,7 @@
                     <div class="input-field">
                         <textarea class="form-control" name="message" id="message" required placeholder="Message"></textarea>
                     </div>
-                    <button class="button main-button" type="submit">send message</button>
+                    <button class="button main-button" type="submit" name="sendbtn">send message</button>
                 </form>
                 <div id="form-messages" class="mt-3"></div>
             </div>

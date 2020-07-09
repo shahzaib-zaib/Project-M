@@ -30,6 +30,7 @@
         'faqs'              => 'FAQs',
         'home'              => 'Home',
         'medico-legal'      => 'Medico Legal',
+        'save-data'         => 'Save Data',
         'index'             => 'index',
 
     );
